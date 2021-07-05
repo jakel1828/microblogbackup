@@ -2,27 +2,33 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jake LaCaze",
 	"icon": "https://micro.blog/jakelacaze/avatar.jpg",
-	"home_page_url": "https://jakelacaze.com/",
-	"feed_url": "https://jakelacaze.com/feed.json",
+	"home_page_url": "https://jakelacaze.micro.blog/",
+	"feed_url": "https://jakelacaze.micro.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://jakelacaze.micro.blog/2021/07/05/starting-to-write.html",
+				
+				"content_html": "<p>Starting to write poetry has proven far more difficult than I expected. I don&rsquo;t know why I can&rsquo;t get over this mental hurdle.</p>\n",
+				"content_text": "Starting to write poetry has proven far more difficult than I expected. I don't know why I can't get over this mental hurdle.\n",
+				"date_published": "2021-07-05T16:43:36-05:00",
+				"url": "https://jakelacaze.micro.blog/2021/07/05/starting-to-write.html"
+			},
+			{
+				"id": "http://jakelacaze.micro.blog/2021/07/01/action-movies-have.html",
+				
+				"content_html": "<p>Action movies have been replaced with superhero movies, wherein the draw is the superhero, not the lead actor.</p>\n\n<p><a href=\"https://www.theringer.com/movies/2021/7/1/22558089/action-stars-chris-pratt-the-tomorrow-war\">The Days of the Action Hero Are Long Gone - The Ringer</a></p>\n",
+				"content_text": "Action movies have been replaced with superhero movies, wherein the draw is the superhero, not the lead actor.\n\n[The Days of the Action Hero Are Long Gone - The Ringer](https://www.theringer.com/movies/2021/7/1/22558089/action-stars-chris-pratt-the-tomorrow-war)\n",
+				"date_published": "2021-07-01T12:40:37-05:00",
+				"url": "https://jakelacaze.micro.blog/2021/07/01/action-movies-have.html"
+			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/25/yesterday-i-got.html",
 				
 				"content_html": "<p>Yesterday I got my car back from the shop after being without for over a month. Having wheels again got me feelin&rsquo; like <a href=\"https://www.youtube.com/watch?v=2l-V6KygkFU\">Kowalski</a>.</p>\n",
 				"content_text": "Yesterday I got my car back from the shop after being without for over a month. Having wheels again got me feelin' like [Kowalski](https://www.youtube.com/watch?v=2l-V6KygkFU).\n",
 				"date_published": "2021-06-25T16:25:47-05:00",
-				"url": "https://jakelacaze.com/2021/06/25/yesterday-i-got.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/06/22/falling-back-in.html",
-				"title": "Falling Back In Love With The Library",
-				"content_html": "<p>Join me in my garage as I romanticize the library.</p>\n\n<p><audio controls=\"controls\" src=\"https://jakelacaze.com/uploads/2021/d6d1d428ed.mp3\" preload=\"metadata\" /></p>\n",
-				"content_text": "Join me in my garage as I romanticize the library.\n\n<audio controls=\"controls\" src=\"https://jakelacaze.com/uploads/2021/d6d1d428ed.mp3\" preload=\"metadata\" />\n",
-				"date_published": "2021-06-22T22:00:02-05:00",
-				"url": "https://jakelacaze.com/2021/06/22/falling-back-in.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/06/25/yesterday-i-got.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/22/im-a-simple.html",
@@ -30,8 +36,7 @@
 				"content_html": "<p>I&rsquo;m a simple man. I see that my library has Joan Didion&rsquo;s latest book with no holds, and I click to check it out.</p>\n",
 				"content_text": "I'm a simple man. I see that my library has Joan Didion's latest book with no holds, and I click to check it out.\n",
 				"date_published": "2021-06-22T21:58:55-05:00",
-				"url": "https://jakelacaze.com/2021/06/22/im-a-simple.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/22/im-a-simple.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/22/its-unfortunate-washington.html",
@@ -39,8 +44,7 @@
 				"content_html": "<p>It&rsquo;s unfortunate Washington Football Team couldn&rsquo;t trademark its name, because I actually like the name. It&rsquo;s refreshingly simple. The biggest problem is that when it&rsquo;s abbreviated to WFT, it&rsquo;s nearly impossible not to see WTF.</p>\n",
 				"content_text": "It's unfortunate Washington Football Team couldn't trademark its name, because I actually like the name. It's refreshingly simple. The biggest problem is that when it's abbreviated to WFT, it's nearly impossible not to see WTF.\n",
 				"date_published": "2021-06-22T09:17:23-05:00",
-				"url": "https://jakelacaze.com/2021/06/22/its-unfortunate-washington.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/22/its-unfortunate-washington.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/22/todays-entry-of.html",
@@ -48,8 +52,7 @@
 				"content_html": "<p>Today&rsquo;s entry of <em>The Daily Stoic</em>&hellip;</p>\n\n<blockquote>\n<p>Hope is not a strategy!</p>\n</blockquote>\n\n<p><img src=\"uploads/2021/afd455d1a4.png\" width=\"561\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Today's entry of *The Daily Stoic*...\r\n\r\n> Hope is not a strategy!\n\n<img src=\"uploads/2021/afd455d1a4.png\" width=\"561\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-22T06:32:49-05:00",
-				"url": "https://jakelacaze.com/2021/06/22/todays-entry-of.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/22/todays-entry-of.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/21/i-scoffed-when.html",
@@ -57,8 +60,7 @@
 				"content_html": "<p>I scoffed when I first heard people singing the praises of the disposable <a href=\"https://www.youtube.com/watch?v=sgwkoVQL69k\">Pilot Varsity fountain pen</a>.</p>\n\n<p>I picked one up yesterday.</p>\n\n<p>Homeboy ain&rsquo;t scoffin’ no more.</p>\n",
 				"content_text": "I scoffed when I first heard people singing the praises of the disposable [Pilot Varsity fountain pen](https://www.youtube.com/watch?v=sgwkoVQL69k).\n\nI picked one up yesterday.\n\nHomeboy ain't scoffin’ no more.\n",
 				"date_published": "2021-06-21T07:09:14-05:00",
-				"url": "https://jakelacaze.com/2021/06/21/i-scoffed-when.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/21/i-scoffed-when.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/18/i-just-discovered.html",
@@ -66,8 +68,7 @@
 				"content_html": "<p>I just discovered that I can check out The Economist via my local library on Libby.</p>\n\n<p>What a time to be alive!</p>\n",
 				"content_text": "I just discovered that I can check out The Economist via my local library on Libby. \r\n\r\nWhat a time to be alive!\n",
 				"date_published": "2021-06-18T17:49:57-05:00",
-				"url": "https://jakelacaze.com/2021/06/18/i-just-discovered.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/18/i-just-discovered.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/17/i-just-brewed.html",
@@ -75,53 +76,47 @@
 				"content_html": "<p>I just brewed 8 cups of hot water because I forgot to grind and include the coffee beans.</p>\n\n<p>That&rsquo;s how my morning&rsquo;s going.</p>\n",
 				"content_text": "I just brewed 8 cups of hot water because I forgot to grind and include the coffee beans.\n\nThat's how my morning's going.\n",
 				"date_published": "2021-06-17T07:04:15-05:00",
-				"url": "https://jakelacaze.com/2021/06/17/i-just-brewed.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/17/i-just-brewed.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/15/080430.html",
 				
-				"content_html": "<p><img src=\"https://jakelacaze.com/uploads/2021/5000cff6b4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://jakelacaze.com/uploads/2021/5000cff6b4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/5000cff6b4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/5000cff6b4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-15T09:04:30-05:00",
-				"url": "https://jakelacaze.com/2021/06/15/080430.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/15/080430.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/13/im-definitely-interested.html",
 				
-				"content_html": "<p>I&rsquo;m definitely interested in this place&rsquo;s story.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/bc16fa3fe0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I'm definitely interested in this place's story.\n\n<img src=\"https://jakelacaze.com/uploads/2021/bc16fa3fe0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m definitely interested in this place&rsquo;s story.</p>\n\n<p><img src=\"uploads/2021/bc16fa3fe0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I'm definitely interested in this place's story.\n\n<img src=\"uploads/2021/bc16fa3fe0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-13T16:18:25-05:00",
-				"url": "https://jakelacaze.com/2021/06/13/im-definitely-interested.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/13/im-definitely-interested.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/13/im-always-interested.html",
 				
-				"content_html": "<p>I&rsquo;m always interested in the stories of abandoned places like this.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/9717e2f741.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I'm always interested in the stories of abandoned places like this.\n\n<img src=\"https://jakelacaze.com/uploads/2021/9717e2f741.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m always interested in the stories of abandoned places like this.</p>\n\n<p><img src=\"uploads/2021/9717e2f741.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I'm always interested in the stories of abandoned places like this.\n\n<img src=\"uploads/2021/9717e2f741.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-13T16:09:37-05:00",
-				"url": "https://jakelacaze.com/2021/06/13/im-always-interested.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/13/im-always-interested.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/13/150342.html",
 				
-				"content_html": "<p><img src=\"https://jakelacaze.com/uploads/2021/dbbf552993.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://jakelacaze.com/uploads/2021/dbbf552993.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/dbbf552993.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/dbbf552993.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-13T16:03:42-05:00",
-				"url": "https://jakelacaze.com/2021/06/13/150342.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/13/150342.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/13/its-been-a.html",
 				
-				"content_html": "<p>It&rsquo;s been a while since I&rsquo;ve ordered a meal that intimidated me.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/4c0509dbd2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "It's been a while since I've ordered a meal that intimidated me.\n\n<img src=\"https://jakelacaze.com/uploads/2021/4c0509dbd2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>It&rsquo;s been a while since I&rsquo;ve ordered a meal that intimidated me.</p>\n\n<p><img src=\"uploads/2021/4c0509dbd2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It's been a while since I've ordered a meal that intimidated me.\n\n<img src=\"uploads/2021/4c0509dbd2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-13T11:46:22-05:00",
-				"url": "https://jakelacaze.com/2021/06/13/its-been-a.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/13/its-been-a.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/10/bobby-gillespie-is.html",
@@ -129,17 +124,7 @@
 				"content_html": "<p>Bobby Gillespie is releasing <a href=\"https://www.brooklynvegan.com/primal-screams-bobby-gillespie-releasing-memoir-tenement-kid/\">a memoir</a>? That&rsquo;s a definite buy for me.</p>\n\n<p><em>Screamadelica</em> and <em>XTRMNTR</em> were transformative albums for me. And the dude had a hand in <em>Psychocandy</em>.</p>\n",
 				"content_text": "Bobby Gillespie is releasing [a memoir](https://www.brooklynvegan.com/primal-screams-bobby-gillespie-releasing-memoir-tenement-kid/)? That's a definite buy for me.\n\n*Screamadelica* and *XTRMNTR* were transformative albums for me. And the dude had a hand in *Psychocandy*. \n",
 				"date_published": "2021-06-10T14:51:22-05:00",
-				"url": "https://jakelacaze.com/2021/06/10/bobby-gillespie-is.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/06/10/looking-for-my.html",
-				"title": "Looking for My Orange",
-				"content_html": "<p>These days if I’m lucky enough to find something that gets me out of a funk, I refer to that something as my “orange”.</p>\n\n<p>A couple years ago I was in the thick of a depressive episode with no obvious way out. The numbness had persisted for weeks, maybe even a couple months at this point. One day, I went into the kitchen in search of a snack. For once, I denied my sweet tooth–maybe I had no artificial sugars stocked–and opted for the healthier option in the form of an orange. I wasn’t expecting any miracles as I peeled the fruit, but when I bit into that first slice and the citrus hit my tongue, my eyes opened wider. My spirits lifted. My mood recovered.</p>\n\n<p>Why was the orange so effective in that moment? Was I on the verge of scurvy? Unfortunately, the orange has proven not to be a reliable cure for my funks. Believe me, I tried again for my first few subsequent episodes. No dice.</p>\n\n<p>Now, when I’ve been in a lull for a while, I alter my routine in search of something to break the cycle. Maybe I try going to sleep early one night. Maybe I go for more walks. Or maybe I try writing my way to a better place, as I am doing in this post.</p>\n\n<p>When my wife notices these changes in behavior, she’ll ask if I’m looking for my orange. I’ll confirm and she’ll usually give me a look of sympathy and a hug and then release me to continue my search. How lucky I am to be with someone who gets me.</p>\n\n<p>I’m writing about this now because yet again I am looking for my orange. Maybe I’ll find my orange in the form of the <a href=\"https://www.zebrapen.com/product/zebra-fountain-pen/?source=pen-type\">disposable Zebra fountain pen</a> I bought last night and then used for the handwritten version of this post. Maybe I’ll find it in next week’s out-of-state vacation. Or maybe I should try a damn orange again. It’s a low risk/high reward situation, so I have little to lose.</p>\n",
-				"content_text": "<p>These days if I’m lucky enough to find something that gets me out of a funk, I refer to that something as my “orange”.</p>\n\n<p>A couple years ago I was in the thick of a depressive episode with no obvious way out. The numbness had persisted for weeks, maybe even a couple months at this point. One day, I went into the kitchen in search of a snack. For once, I denied my sweet tooth–maybe I had no artificial sugars stocked–and opted for the healthier option in the form of an orange. I wasn’t expecting any miracles as I peeled the fruit, but when I bit into that first slice and the citrus hit my tongue, my eyes opened wider. My spirits lifted. My mood recovered.</p>\n\n<p>Why was the orange so effective in that moment? Was I on the verge of scurvy? Unfortunately, the orange has proven not to be a reliable cure for my funks. Believe me, I tried again for my first few subsequent episodes. No dice.</p>\n\n<p>Now, when I’ve been in a lull for a while, I alter my routine in search of something to break the cycle. Maybe I try going to sleep early one night. Maybe I go for more walks. Or maybe I try writing my way to a better place, as I am doing in this post.</p>\n\n<p>When my wife notices these changes in behavior, she’ll ask if I’m looking for my orange. I’ll confirm and she’ll usually give me a look of sympathy and a hug and then release me to continue my search. How lucky I am to be with someone who gets me.</p>\n\n<p>I’m writing about this now because yet again I am looking for my orange. Maybe I’ll find my orange in the form of the <a href=\"https://www.zebrapen.com/product/zebra-fountain-pen/?source=pen-type\">disposable Zebra fountain pen</a> I bought last night and then used for the handwritten version of this post. Maybe I’ll find it in next week’s out-of-state vacation. Or maybe I should try a damn orange again. It’s a low risk/high reward situation, so I have little to lose.</p>\n\n",
-				"date_published": "2021-06-10T09:26:34-05:00",
-				"url": "https://jakelacaze.com/2021/06/10/looking-for-my.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/06/10/bobby-gillespie-is.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/09/today-i-used.html",
@@ -147,8 +132,7 @@
 				"content_html": "<p>Today I used a ride share for the first time since the pandemic. Every little step toward a new normal feels weird in the moment.</p>\n",
 				"content_text": "Today I used a ride share for the first time since the pandemic. Every little step toward a new normal feels weird in the moment.\n",
 				"date_published": "2021-06-09T18:31:28-05:00",
-				"url": "https://jakelacaze.com/2021/06/09/today-i-used.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/09/today-i-used.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/08/social-media-has.html",
@@ -156,8 +140,7 @@
 				"content_html": "<blockquote>\n<p>Social media has not corrupted us, it’s merely revealed who we always were.</p>\n</blockquote>\n\n<p><a href=\"https://markmanson.net/social-media-isnt-the-problem\">Social Media Isn’t the Problem… We Are</a> by Mark Manson</p>\n",
 				"content_text": "> Social media has not corrupted us, it’s merely revealed who we always were.\n\n[Social Media Isn’t the Problem… We Are](https://markmanson.net/social-media-isnt-the-problem) by Mark Manson\n",
 				"date_published": "2021-06-08T06:22:56-05:00",
-				"url": "https://jakelacaze.com/2021/06/08/social-media-has.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/08/social-media-has.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/05/it-figures-that.html",
@@ -165,8 +148,7 @@
 				"content_html": "<p>It figures that I&rsquo;d learn about <a href=\"https://fromthe.study/the-end-of-tomoe-river-paper/\">the end of Tomoe River paper</a> shortly after falling in love with it. I&rsquo;m always late to the party.</p>\n",
 				"content_text": "It figures that I'd learn about [the end of Tomoe River paper](https://fromthe.study/the-end-of-tomoe-river-paper/) shortly after falling in love with it. I'm always late to the party.\n",
 				"date_published": "2021-06-05T09:47:45-05:00",
-				"url": "https://jakelacaze.com/2021/06/05/it-figures-that.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/05/it-figures-that.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/05/recently-i-wondered.html",
@@ -174,17 +156,7 @@
 				"content_html": "<p>Recently I wondered if I was done with sports. Then I started playing NCAA Football 13 again. Now most of my YouTube time is spent watching coaches break down the air raid offense so that I can turn LA Tech into the dynasty it deserves.</p>\n\n<p>Also, I&rsquo;m loving me some 4-2-5 defense.</p>\n",
 				"content_text": "Recently I wondered if I was done with sports. Then I started playing NCAA Football 13 again. Now most of my YouTube time is spent watching coaches break down the air raid offense so that I can turn LA Tech into the dynasty it deserves.\r\n\r\nAlso, I'm loving me some 4-2-5 defense.\n",
 				"date_published": "2021-06-05T09:18:54-05:00",
-				"url": "https://jakelacaze.com/2021/06/05/recently-i-wondered.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/06/04/a-writerly-identity.html",
-				"title": "A Writerly Identity Crisis",
-				"content_html": "<p>Join me in the Garage Cafe, where I share a writerly problem that has crept back into my thoughts.</p>\n\n<p><audio controls=\"controls\" src=\"https://jakelacaze.com/uploads/2021/20c55b3185.mp3\" preload=\"metadata\" /></p>\n",
-				"content_text": "Join me in the Garage Cafe, where I share a writerly problem that has crept back into my thoughts.\n\n<audio controls=\"controls\" src=\"https://jakelacaze.com/uploads/2021/20c55b3185.mp3\" preload=\"metadata\" />\n",
-				"date_published": "2021-06-04T20:27:36-05:00",
-				"url": "https://jakelacaze.com/2021/06/04/a-writerly-identity.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/06/05/recently-i-wondered.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/04/i-was-sitting.html",
@@ -192,17 +164,15 @@
 				"content_html": "<p>I was sitting in the Garage Cafe, listening to some tunes on my iPad, when my neighbor decided to mow his back yard. I beamed my displeasure over the fence, in his direction, and he stopped and went back inside. I might have telepathy, y&rsquo;all.</p>\n",
 				"content_text": "I was sitting in the Garage Cafe, listening to some tunes on my iPad, when my neighbor decided to mow his back yard. I beamed my displeasure over the fence, in his direction, and he stopped and went back inside. I might have telepathy, y'all.\n",
 				"date_published": "2021-06-04T20:14:02-05:00",
-				"url": "https://jakelacaze.com/2021/06/04/i-was-sitting.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/04/i-was-sitting.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/03/namaste.html",
 				
-				"content_html": "<p>Namaste</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/1a26de9ff6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Namaste\n\n<img src=\"https://jakelacaze.com/uploads/2021/1a26de9ff6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Namaste</p>\n\n<p><img src=\"uploads/2021/1a26de9ff6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Namaste\n\n<img src=\"uploads/2021/1a26de9ff6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-03T17:12:39-05:00",
-				"url": "https://jakelacaze.com/2021/06/03/namaste.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/03/namaste.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/03/i-can-handle.html",
@@ -210,8 +180,7 @@
 				"content_html": "<p>I can handle if someone dislikes my writing, but there are two criticisms I try to avoid:</p>\n\n<ol>\n<li>Jake&rsquo;s writing wasn&rsquo;t clear; or</li>\n<li>Man, Jake just went on and on and on and on and on.</li>\n</ol>\n\n<p>That said, I&rsquo;ve been trying to let loose with my stories to give them room to grow. This morning, I finished what may be the longest story I&rsquo;ve ever written, and I can&rsquo;t help asking myself how the hell it got out of control.</p>\n",
 				"content_text": "I can handle if someone dislikes my writing, but there are two criticisms I try to avoid:\r\n\r\n1. Jake's writing wasn't clear; or\r\n2. Man, Jake just went on and on and on and on and on.\r\n\r\nThat said, I've been trying to let loose with my stories to give them room to grow. This morning, I finished what may be the longest story I've ever written, and I can't help asking myself how the hell it got out of control.\n",
 				"date_published": "2021-06-03T16:42:33-05:00",
-				"url": "https://jakelacaze.com/2021/06/03/i-can-handle.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/03/i-can-handle.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/06/01/in-the-latest.html",
@@ -219,8 +188,7 @@
 				"content_html": "<p>In <a href=\"https://emergencycoffee.jakelacaze.com/emergency-coffee-for-6-2021\">the latest issue of Emergency Coffee</a>, we&rsquo;re breaking grammar rules, giving a shoutout to <em>Bluey</em>, and talking about persuasion in writing.</p>\n",
 				"content_text": "In [the latest issue of Emergency Coffee](https://emergencycoffee.jakelacaze.com/emergency-coffee-for-6-2021), we're breaking grammar rules, giving a shoutout to *Bluey*, and talking about persuasion in writing.\n",
 				"date_published": "2021-06-01T17:01:25-05:00",
-				"url": "https://jakelacaze.com/2021/06/01/in-the-latest.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/06/01/in-the-latest.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/28/earlier-today-i.html",
@@ -228,26 +196,15 @@
 				"content_html": "<p>Earlier today I finished re-reading Stephen King&rsquo;s <em>On Writing</em>, and while I doubt King cares one bit about my opinion, I owe him an apology. I&rsquo;ve criticized <em>On Writing</em> as being heavy on memoir and light on writing tips, but I now realize how wrong I was.</p>\n",
 				"content_text": "Earlier today I finished re-reading Stephen King's *On Writing*, and while I doubt King cares one bit about my opinion, I owe him an apology. I've criticized *On Writing* as being heavy on memoir and light on writing tips, but I now realize how wrong I was.\n",
 				"date_published": "2021-05-28T15:32:07-05:00",
-				"url": "https://jakelacaze.com/2021/05/28/earlier-today-i.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/28/earlier-today-i.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/26/a-throwback-to.html",
 				
-				"content_html": "<p>A throwback to my camp counselor days</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/5f7bbef124.jpg\" width=\"420\" height=\"420\" alt=\"\" /></p>\n",
-				"content_text": "A throwback to my camp counselor days\n\n<img src=\"https://jakelacaze.com/uploads/2021/5f7bbef124.jpg\" width=\"420\" height=\"420\" alt=\"\" />\n",
+				"content_html": "<p>A throwback to my camp counselor days</p>\n\n<p><img src=\"uploads/2021/5f7bbef124.jpg\" width=\"420\" height=\"420\" alt=\"\" /></p>\n",
+				"content_text": "A throwback to my camp counselor days\n\n<img src=\"uploads/2021/5f7bbef124.jpg\" width=\"420\" height=\"420\" alt=\"\" />\n",
 				"date_published": "2021-05-26T14:53:41-05:00",
-				"url": "https://jakelacaze.com/2021/05/26/a-throwback-to.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/05/23/useful-limitations.html",
-				"title": "Useful Limitations",
-				"content_html": "<p>Just because we have options doesn&rsquo;t mean we have to exercise them</p>\n\n<p><audio controls=\"controls\" src=\"https://jakelacaze.com/uploads/2021/56193a4b3f.mp3\" preload=\"metadata\" /></p>\n",
-				"content_text": "Just because we have options doesn't mean we have to exercise them\n\n<audio controls=\"controls\" src=\"https://jakelacaze.com/uploads/2021/56193a4b3f.mp3\" preload=\"metadata\" />\n",
-				"date_published": "2021-05-23T13:41:21-05:00",
-				"url": "https://jakelacaze.com/2021/05/23/useful-limitations.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/05/26/a-throwback-to.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/21/whats-wrong-with.html",
@@ -255,8 +212,7 @@
 				"content_html": "<p><a href=\"https://podcasts.apple.com/us/podcast/the-journal/id1469394914?i=1000522410691\">What&rsquo;s Wrong with the Car Market?</a> from The Journal.</p>\n\n<p>This podcast episode hits close to home since the head on my engine blew out and the mechanic is having problems finding parts. Buying a new ride ain&rsquo;t a great option right now either.</p>\n",
 				"content_text": "[What's Wrong with the Car Market?](https://podcasts.apple.com/us/podcast/the-journal/id1469394914?i=1000522410691) from The Journal.\r\n\r\nThis podcast episode hits close to home since the head on my engine blew out and the mechanic is having problems finding parts. Buying a new ride ain't a great option right now either.\n",
 				"date_published": "2021-05-21T20:26:21-05:00",
-				"url": "https://jakelacaze.com/2021/05/21/whats-wrong-with.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/21/whats-wrong-with.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/19/if-youre-considering.html",
@@ -264,8 +220,7 @@
 				"content_html": "<p>If you&rsquo;re considering getting into fountain pens, you&rsquo;re probably deciding between the Pilot Metropolitan or the Lamy Safari for your first purchase. But I&rsquo;m here to tell you to consider the <a href=\"https://www.youtube.com/watch?v=twaqabNQhV4\">Pilot Kakuno</a>. The clear body with the clear cap is a good look.</p>\n",
 				"content_text": "If you're considering getting into fountain pens, you're probably deciding between the Pilot Metropolitan or the Lamy Safari for your first purchase. But I'm here to tell you to consider the [Pilot Kakuno](https://www.youtube.com/watch?v=twaqabNQhV4). The clear body with the clear cap is a good look.\n",
 				"date_published": "2021-05-19T20:29:53-05:00",
-				"url": "https://jakelacaze.com/2021/05/19/if-youre-considering.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/19/if-youre-considering.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/19/though-im-bummed.html",
@@ -273,8 +228,7 @@
 				"content_html": "<p>Though I&rsquo;m bummed I had to get my car towed this evening, I&rsquo;m proud that I handled it in a matter-of-fact manner, whereas in years past, I would have let my anxiety dominate the situation.</p>\n\n<p>This Stoicism and meditation combo may be working, y&rsquo;all.</p>\n",
 				"content_text": "Though I'm bummed I had to get my car towed this evening, I'm proud that I handled it in a matter-of-fact manner, whereas in years past, I would have let my anxiety dominate the situation.\r\n\r\nThis Stoicism and meditation combo may be working, y'all.\n",
 				"date_published": "2021-05-19T20:21:27-05:00",
-				"url": "https://jakelacaze.com/2021/05/19/though-im-bummed.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/19/though-im-bummed.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/17/castlevania-on-netflix.html",
@@ -282,8 +236,7 @@
 				"content_html": "<p><em>Castlevania</em> on Netflix was so refreshing: 4 seasons, 32 episodes, and it ended on a high  note rather than wear out its welcome.</p>\n",
 				"content_text": "*Castlevania* on Netflix was so refreshing: 4 seasons, 32 episodes, and it ended on a high  note rather than wear out its welcome. \n",
 				"date_published": "2021-05-17T10:09:32-05:00",
-				"url": "https://jakelacaze.com/2021/05/17/castlevania-on-netflix.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/17/castlevania-on-netflix.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/11/does-anyone-have.html",
@@ -291,8 +244,7 @@
 				"content_html": "<p>Does anyone have any experience with <a href=\"https://scribophile.com\">Scribophile</a>? I tried it briefly in the past but didn&rsquo;t give it a fair chance before closing my account. I&rsquo;m back again, since my writing group seems dead again.</p>\n",
 				"content_text": "Does anyone have any experience with [Scribophile](https://scribophile.com)? I tried it briefly in the past but didn't give it a fair chance before closing my account. I'm back again, since my writing group seems dead again.\n",
 				"date_published": "2021-05-11T10:52:20-05:00",
-				"url": "https://jakelacaze.com/2021/05/11/does-anyone-have.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/11/does-anyone-have.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/10/my-new-favorite.html",
@@ -300,17 +252,15 @@
 				"content_html": "<p>My new favorite thing is the &ldquo;Garage Cafe&rdquo;, in which I sit at our card table in the middle of the garage with the doors open. It&rsquo;s perfect for this cool, rainy spring evening.</p>\n",
 				"content_text": "My new favorite thing is the \"Garage Cafe\", in which I sit at our card table in the middle of the garage with the doors open. It's perfect for this cool, rainy spring evening.\n",
 				"date_published": "2021-05-10T18:27:30-05:00",
-				"url": "https://jakelacaze.com/2021/05/10/my-new-favorite.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/10/my-new-favorite.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/10/as-of-today.html",
 				
-				"content_html": "<p>As of today, I am fully vaccinated. Time to party</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/7e7c410047.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "As of today, I am fully vaccinated. Time to party\n\n<img src=\"http://jakelacaze.com/uploads/2021/7e7c410047.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>As of today, I am fully vaccinated. Time to party</p>\n\n<p><img src=\"uploads/2021/7e7c410047.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "As of today, I am fully vaccinated. Time to party\n\n<img src=\"uploads/2021/7e7c410047.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-10T15:41:11-05:00",
-				"url": "https://jakelacaze.com/2021/05/10/as-of-today.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/10/as-of-today.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/10/the-next-time.html",
@@ -318,8 +268,7 @@
 				"content_html": "<p>The next time I&rsquo;m recruiting for a writing group, I&rsquo;m going to put out feelers on LinkedIn because that appears to be where all the failed fiction writers hang out these days.</p>\n",
 				"content_text": "The next time I'm recruiting for a writing group, I'm going to put out feelers on LinkedIn because that appears to be where all the failed fiction writers hang out these days.\n",
 				"date_published": "2021-05-10T08:59:18-05:00",
-				"url": "https://jakelacaze.com/2021/05/10/the-next-time.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/10/the-next-time.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/06/these-days-i.html",
@@ -327,8 +276,7 @@
 				"content_html": "<p>These days I keep up with the NFL mostly for water cooler chat, but this Aaron Rodgers drama is SPICY. I don&rsquo;t care how it plays out. I&rsquo;m just along for the ride.</p>\n",
 				"content_text": "These days I keep up with the NFL mostly for water cooler chat, but this Aaron Rodgers drama is SPICY. I don't care how it plays out. I'm just along for the ride.\n",
 				"date_published": "2021-05-06T08:38:58-05:00",
-				"url": "https://jakelacaze.com/2021/05/06/these-days-i.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/06/these-days-i.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/05/yeeeeeah-im-glad.html",
@@ -336,44 +284,39 @@
 				"content_html": "<p>Yeeeeeah, I&rsquo;m glad I didn&rsquo;t read <em>The Plague</em> a year ago. It hit too close to home for that ish.</p>\n",
 				"content_text": "Yeeeeeah, I'm glad I didn't read *The Plague* a year ago. It hit too close to home for that ish.\n",
 				"date_published": "2021-05-05T20:11:24-05:00",
-				"url": "https://jakelacaze.com/2021/05/05/yeeeeeah-im-glad.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/05/yeeeeeah-im-glad.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/02/monkey-see-monkey.html",
 				
-				"content_html": "<p>Monkey see, Monkey do</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/1ad95ac98e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Monkey see, Monkey do\n\n<img src=\"http://jakelacaze.com/uploads/2021/1ad95ac98e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Monkey see, Monkey do</p>\n\n<p><img src=\"uploads/2021/1ad95ac98e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Monkey see, Monkey do\n\n<img src=\"uploads/2021/1ad95ac98e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-02T19:18:45-05:00",
-				"url": "https://jakelacaze.com/2021/05/02/monkey-see-monkey.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/02/monkey-see-monkey.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/02/she-approves-of.html",
 				
-				"content_html": "<p>She approves of my new laptop backpack.</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/68e561dce5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "She approves of my new laptop backpack.\n\n<img src=\"http://jakelacaze.com/uploads/2021/68e561dce5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>She approves of my new laptop backpack.</p>\n\n<p><img src=\"uploads/2021/68e561dce5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "She approves of my new laptop backpack.\n\n<img src=\"uploads/2021/68e561dce5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-02T15:51:01-05:00",
-				"url": "https://jakelacaze.com/2021/05/02/she-approves-of.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/02/she-approves-of.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/02/how-people-from.html",
 				
-				"content_html": "<p>How people from my hometown greet you when they ain&rsquo;t seen you in a bit</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/14c91817cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "How people from my hometown greet you when they ain't seen you in a bit\n\n<img src=\"http://jakelacaze.com/uploads/2021/14c91817cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>How people from my hometown greet you when they ain&rsquo;t seen you in a bit</p>\n\n<p><img src=\"uploads/2021/14c91817cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "How people from my hometown greet you when they ain't seen you in a bit\n\n<img src=\"uploads/2021/14c91817cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-02T15:49:48-05:00",
-				"url": "https://jakelacaze.com/2021/05/02/how-people-from.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/02/how-people-from.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/02/i-love-carrollton.html",
 				
-				"content_html": "<p>I love Carrollton Square.</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/7b475d7362.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I love Carrollton Square.\n\n<img src=\"http://jakelacaze.com/uploads/2021/7b475d7362.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I love Carrollton Square.</p>\n\n<p><img src=\"uploads/2021/7b475d7362.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I love Carrollton Square.\n\n<img src=\"uploads/2021/7b475d7362.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-02T15:48:53-05:00",
-				"url": "https://jakelacaze.com/2021/05/02/i-love-carrollton.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/02/i-love-carrollton.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/01/i-once-heard.html",
@@ -381,8 +324,7 @@
 				"content_html": "<p>I once heard a piece of professional philosophy that went something like:</p>\n\n<blockquote>\n<p>If you&rsquo;re not making mistakes, you&rsquo;re not trying.</p>\n</blockquote>\n\n<p>For writers, it would be:</p>\n\n<blockquote>\n<p>If you ain&rsquo;t making typos, you ain&rsquo;t writing.</p>\n</blockquote>\n",
 				"content_text": "I once heard a piece of professional philosophy that went something like:\n\n> If you're not making mistakes, you're not trying.\n\nFor writers, it would be:\n\n> If you ain't making typos, you ain't writing.\n",
 				"date_published": "2021-05-01T07:33:00-05:00",
-				"url": "https://jakelacaze.com/2021/05/01/i-once-heard.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/01/i-once-heard.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/05/01/with-todays-launch.html",
@@ -390,8 +332,7 @@
 				"content_html": "<p>With <a href=\"https://emergencycoffee.jakelacaze.com/emergency-coffee-for-5-2021\">today&rsquo;s launch of my monthly writing newsletter</a>, I continue my trend of pretending I know what I&rsquo;m talking about.</p>\n",
 				"content_text": "With [today's launch of my monthly writing newsletter](https://emergencycoffee.jakelacaze.com/emergency-coffee-for-5-2021), I continue my trend of pretending I know what I'm talking about.\n",
 				"date_published": "2021-05-01T07:31:13-05:00",
-				"url": "https://jakelacaze.com/2021/05/01/with-todays-launch.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/05/01/with-todays-launch.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/30/the-haunted-house.html",
@@ -399,8 +340,7 @@
 				"content_html": "<p><a href=\"https://turkeyhousepublishing.com/the-haunted-house-next-door\">The Haunted House Next Door</a>, a new vignette at Turkey House Publishing, is an exploration of how we play scenarios in our heads vs. how we actually act.</p>\n",
 				"content_text": "[The Haunted House Next Door](https://turkeyhousepublishing.com/the-haunted-house-next-door), a new vignette at Turkey House Publishing, is an exploration of how we play scenarios in our heads vs. how we actually act.\n",
 				"date_published": "2021-04-30T07:06:00-05:00",
-				"url": "https://jakelacaze.com/2021/04/30/the-haunted-house.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/30/the-haunted-house.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/30/this-morning-i.html",
@@ -408,8 +348,7 @@
 				"content_html": "<p>This morning I learned that &ldquo;spicket&rdquo; is not a real word. The word I was looking for is &ldquo;spigot.&rdquo;</p>\n\n<p>Despite growing up in the sticks, I&rsquo;ve never thought of myself as a country boy, but this is a reminder that we&rsquo;re all shaped by where we were raised.</p>\n",
 				"content_text": "This morning I learned that \"spicket\" is not a real word. The word I was looking for is \"spigot.\"\r\n\r\nDespite growing up in the sticks, I've never thought of myself as a country boy, but this is a reminder that we're all shaped by where we were raised.\n",
 				"date_published": "2021-04-30T06:43:18-05:00",
-				"url": "https://jakelacaze.com/2021/04/30/this-morning-i.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/30/this-morning-i.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/29/another-new-story.html",
@@ -417,8 +356,7 @@
 				"content_html": "<p>Another new story at Turkey House Publishing&hellip;</p>\n\n<p><a href=\"https://write.as/turkey-house-publishing/the-bird-watcher\">The Bird Watcher</a></p>\n\n<p>The story can best be summed up by these lyrics from <a href=\"https://write.as/turkey-house-publishing/the-bird-watcher\">&ldquo;Two to Birkenhead&rdquo; by Bill Ryder-Jones</a>:</p>\n\n<blockquote>\n<p>They say that desperate times call for desperate pleasures</p>\n</blockquote>\n",
 				"content_text": "Another new story at Turkey House Publishing...\r\n\r\n[The Bird Watcher](https://write.as/turkey-house-publishing/the-bird-watcher)\r\n\r\nThe story can best be summed up by these lyrics from [\"Two to Birkenhead\" by Bill Ryder-Jones](https://write.as/turkey-house-publishing/the-bird-watcher):\r\n\r\n> They say that desperate times call for desperate pleasures\n",
 				"date_published": "2021-04-29T20:21:10-05:00",
-				"url": "https://jakelacaze.com/2021/04/29/another-new-story.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/29/another-new-story.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/29/attempting-to-write.html",
@@ -426,8 +364,7 @@
 				"content_html": "<p>Attempting to write a novel has forced me to eat humble pie as it has shown me that I&rsquo;m still not ready for the task. At least I&rsquo;ve made some progress on my short story collection.</p>\n",
 				"content_text": "Attempting to write a novel has forced me to eat humble pie as it has shown me that I'm still not ready for the task. At least I've made some progress on my short story collection.\n",
 				"date_published": "2021-04-29T19:43:41-05:00",
-				"url": "https://jakelacaze.com/2021/04/29/attempting-to-write.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/29/attempting-to-write.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/27/im-interested-in.html",
@@ -435,8 +372,7 @@
 				"content_html": "<p>I&rsquo;m interested in and fascinated by the ways we sabotage ourselves. My latest short story at Turkey House Publishing explores this in its own way.</p>\n\n<p><a href=\"https://turkeyhousepublishing.com/wouldnt-it-be-nice\">Wouldn&rsquo;t It Be Nice</a></p>\n",
 				"content_text": "I'm interested in and fascinated by the ways we sabotage ourselves. My latest short story at Turkey House Publishing explores this in its own way.\r\n\r\n[Wouldn't It Be Nice](https://turkeyhousepublishing.com/wouldnt-it-be-nice)\n",
 				"date_published": "2021-04-27T19:09:11-05:00",
-				"url": "https://jakelacaze.com/2021/04/27/im-interested-in.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/27/im-interested-in.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/27/in-the-last.html",
@@ -444,8 +380,7 @@
 				"content_html": "<p>In the last couple years, I re-watched <em>The NeverEnding Story</em> with my son, and everyone asked if he was okay after the Artex scene in the Swamp of Sadness, but they should have been asking about ME.</p>\n\n<p><a href=\"https://www.tor.com/2021/04/26/why-you-should-watch-the-neverending-story-as-an-adult/\">Why You Should Watch the NeverEnding Story as an Adult</a></p>\n",
 				"content_text": "In the last couple years, I re-watched *The NeverEnding Story* with my son, and everyone asked if he was okay after the Artex scene in the Swamp of Sadness, but they should have been asking about ME.\r\n\r\n[Why You Should Watch the NeverEnding Story as an Adult](https://www.tor.com/2021/04/26/why-you-should-watch-the-neverending-story-as-an-adult/)\n",
 				"date_published": "2021-04-27T06:23:23-05:00",
-				"url": "https://jakelacaze.com/2021/04/27/in-the-last.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/27/in-the-last.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/25/i-prefer-not.html",
@@ -453,17 +388,7 @@
 				"content_html": "<p>I prefer not to read books by the same author back to back, but after re-reading Albert Camus&rsquo;s <em>The Stranger</em>, I couldn&rsquo;t resist the urge to check out <em>The Plague</em>, which I&rsquo;ll start tonight. Though the book likely should have been on my 2020 list, it still feels timely in 2021.</p>\n",
 				"content_text": "I prefer not to read books by the same author back to back, but after re-reading Albert Camus's *The Stranger*, I couldn't resist the urge to check out *The Plague*, which I'll start tonight. Though the book likely should have been on my 2020 list, it still feels timely in 2021.\n",
 				"date_published": "2021-04-25T20:17:24-05:00",
-				"url": "https://jakelacaze.com/2021/04/25/i-prefer-not.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/04/25/emergency-coffeea-writing.html",
-				"title": "Emergency Coffee--a writing newsletter",
-				"content_html": "<p>I will be dropping the first edition of <a href=\"https://emergencycoffee.jakelacaze.com\">Emergency Coffee</a>, my writing newsletter, on 05.01.2021. This is my equivalent of a press release. I suck at marketing even though I have a degree in it.</p>\n\n<p><audio controls=\"controls\" src=\"http://jakelacaze.com/uploads/2021/9c7a6a09df.mp3\" preload=\"metadata\" /></p>\n",
-				"content_text": "I will be dropping the first edition of [Emergency Coffee](https://emergencycoffee.jakelacaze.com), my writing newsletter, on 05.01.2021. This is my equivalent of a press release. I suck at marketing even though I have a degree in it.\n\n<audio controls=\"controls\" src=\"http://jakelacaze.com/uploads/2021/9c7a6a09df.mp3\" preload=\"metadata\" />\n",
-				"date_published": "2021-04-25T20:07:26-05:00",
-				"url": "https://jakelacaze.com/2021/04/25/emergency-coffeea-writing.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/04/25/i-prefer-not.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/23/some-things-im.html",
@@ -471,8 +396,7 @@
 				"content_html": "<p>Some things I&rsquo;m using to push me toward finishing a novel/novella:</p>\n\n<ol>\n<li>Write 500 words a day. Stop once I&rsquo;ve hit my goal.</li>\n<li>Pick up wherever yesterday&rsquo;s writing left off. No deleting previous days&rsquo; efforts.</li>\n</ol>\n\n<p>I&rsquo;m pretty sure what I have so far is horrible, but I&rsquo;m reminding myself that the point is to complete a rough draft. It&rsquo;s easier to rewrite and edit when you actually have something to work with. Perfection is a pointless goal, and great writing is iterative.</p>\n",
 				"content_text": "Some things I'm using to push me toward finishing a novel/novella:\r\n\r\n1. Write 500 words a day. Stop once I've hit my goal.\r\n2. Pick up wherever yesterday's writing left off. No deleting previous days' efforts.\r\n\r\nI'm pretty sure what I have so far is horrible, but I'm reminding myself that the point is to complete a rough draft. It's easier to rewrite and edit when you actually have something to work with. Perfection is a pointless goal, and great writing is iterative.\n",
 				"date_published": "2021-04-23T19:56:02-05:00",
-				"url": "https://jakelacaze.com/2021/04/23/some-things-im.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/23/some-things-im.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/23/i-dont-think.html",
@@ -480,26 +404,23 @@
 				"content_html": "<p>I don&rsquo;t think I&rsquo;ve watched a movie so far in 2021. This is not intentional. It&rsquo;s just happened (or failed to). Maybe it&rsquo;s time to break my streak.</p>\n",
 				"content_text": "I don't think I've watched a movie so far in 2021. This is not intentional. It's just happened (or failed to). Maybe it's time to break my streak.\n",
 				"date_published": "2021-04-23T19:04:16-05:00",
-				"url": "https://jakelacaze.com/2021/04/23/i-dont-think.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/23/i-dont-think.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/20/184125.html",
 				
-				"content_html": "<p><img src=\"http://jakelacaze.com/uploads/2021/54e5295aab.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"http://jakelacaze.com/uploads/2021/54e5295aab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/54e5295aab.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/54e5295aab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-20T18:41:25-05:00",
-				"url": "https://jakelacaze.com/2021/04/20/184125.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/20/184125.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/20/where-were-you.html",
 				
-				"content_html": "<p>Where were you when oil went negative?</p>\n\n<p>4.20.2020</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/b000797b7c.jpg\" width=\"600\" height=\"291\" alt=\"\" /></p>\n",
-				"content_text": "Where were you when oil went negative?\n\n4.20.2020\n\n<img src=\"http://jakelacaze.com/uploads/2021/b000797b7c.jpg\" width=\"600\" height=\"291\" alt=\"\" />\n",
+				"content_html": "<p>Where were you when oil went negative?</p>\n\n<p>4.20.2020</p>\n\n<p><img src=\"uploads/2021/b000797b7c.jpg\" width=\"600\" height=\"291\" alt=\"\" /></p>\n",
+				"content_text": "Where were you when oil went negative?\n\n4.20.2020\n\n<img src=\"uploads/2021/b000797b7c.jpg\" width=\"600\" height=\"291\" alt=\"\" />\n",
 				"date_published": "2021-04-20T08:50:45-05:00",
-				"url": "https://jakelacaze.com/2021/04/20/where-were-you.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/20/where-were-you.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/20/im-not-proud.html",
@@ -507,8 +428,7 @@
 				"content_html": "<p>I&rsquo;m not proud of what I&rsquo;ve written so much as I&rsquo;m proud of the fact that I&rsquo;ve written. The first chapter of my novel/novella is done.</p>\n",
 				"content_text": "I'm not proud of what I've written so much as I'm proud of the fact that I've written. The first chapter of my novel/novella is done.\n",
 				"date_published": "2021-04-20T06:34:35-05:00",
-				"url": "https://jakelacaze.com/2021/04/20/im-not-proud.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/20/im-not-proud.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/18/im-excited-to.html",
@@ -516,17 +436,15 @@
 				"content_html": "<p>I&rsquo;m excited to have picked up <em>When Breath Becomes Air</em> by Paul Kalinithi <a href=\"https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi-ebook/dp/B00XSSYR50/ref=sr_1_1?dchild=1&amp;keywords=when+breath+becomes+air&amp;qid=1618795376&amp;sr=8-1\">on Kindle for $2.99</a>. The author&rsquo;s bravery in the face of certain death continues to inspire me long after my first reading.</p>\n",
 				"content_text": "I'm excited to have picked up *When Breath Becomes Air* by Paul Kalinithi [on Kindle for $2.99](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi-ebook/dp/B00XSSYR50/ref=sr_1_1?dchild=1&keywords=when+breath+becomes+air&qid=1618795376&sr=8-1). The author's bravery in the face of certain death continues to inspire me long after my first reading.\n",
 				"date_published": "2021-04-18T20:27:00-05:00",
-				"url": "https://jakelacaze.com/2021/04/18/im-excited-to.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/18/im-excited-to.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/18/i-tried-administering.html",
 				
-				"content_html": "<p>I tried administering CBT to my dog while she was on &ldquo;the couch&rdquo;. We got a lotta work ahead of us.</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/c571a73823.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I tried administering CBT to my dog while she was on \"the couch\". We got a lotta work ahead of us.\n\n<img src=\"http://jakelacaze.com/uploads/2021/c571a73823.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I tried administering CBT to my dog while she was on &ldquo;the couch&rdquo;. We got a lotta work ahead of us.</p>\n\n<p><img src=\"uploads/2021/c571a73823.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I tried administering CBT to my dog while she was on \"the couch\". We got a lotta work ahead of us.\n\n<img src=\"uploads/2021/c571a73823.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-18T16:40:53-05:00",
-				"url": "https://jakelacaze.com/2021/04/18/i-tried-administering.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/18/i-tried-administering.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/18/peer-pressure-has.html",
@@ -534,17 +452,15 @@
 				"content_html": "<p>Peer pressure has led to the adoption of a <a href=\"/now\">now</a> page. I&rsquo;m trying to lean into this whole calling-myself-a-writer thing. No need to be so humble about it.</p>\n",
 				"content_text": "Peer pressure has led to the adoption of a [now](/now) page. I'm trying to lean into this whole calling-myself-a-writer thing. No need to be so humble about it.\n",
 				"date_published": "2021-04-18T16:31:14-05:00",
-				"url": "https://jakelacaze.com/2021/04/18/peer-pressure-has.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/18/peer-pressure-has.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/18/124348.html",
 				
-				"content_html": "<p><img src=\"http://jakelacaze.com/uploads/2021/aabae906ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"http://jakelacaze.com/uploads/2021/aabae906ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/aabae906ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/aabae906ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-18T12:43:48-05:00",
-				"url": "https://jakelacaze.com/2021/04/18/124348.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/18/124348.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/16/my-first-live.html",
@@ -552,8 +468,7 @@
 				"content_html": "<p>My first live music spiritual experience was courtesy of Radiohead <a href=\"https://www.concertarchives.org/concerts/radiohead--34\">in 2008</a>, shortly after I had moved to Texas.  Music had been my drug of choice since I was a teenager, and experiencing three members playing the same heavy beat during the beginning of <a href=\"https://www.youtube.com/watch?v=7AQSLozK7aA\">&ldquo;There, There&rdquo;</a> reached some primal part of me that had never been touched before.</p>\n\n<p>The song remains my favorite Radiohead tune and has some of my favorite lines:</p>\n\n<blockquote>\n<p>Just &lsquo;cause you feel it</p>\n\n<p>Doesn&rsquo;t mean it&rsquo;s there</p>\n</blockquote>\n\n<p>How fallible we are, how poor our judgment&hellip;</p>\n\n<blockquote>\n<p>There&rsquo;s always a siren</p>\n\n<p>Singing you to shipwreck</p>\n</blockquote>\n\n<p>So many promises sound so pretty yet lead only to disaster&hellip;</p>\n\n<blockquote>\n<p>We are accidents</p>\n\n<p>Waiting to happen</p>\n</blockquote>\n\n<p>Always reminds me of humanity&rsquo;s imperfect nature&hellip;</p>\n\n<p>I don&rsquo;t know why this song and that experience are in my head right now, and I don&rsquo;t know why I feel compelled to write about them in this messy way, but I do and so I am.</p>\n",
 				"content_text": "My first live music spiritual experience was courtesy of Radiohead [in 2008](https://www.concertarchives.org/concerts/radiohead--34), shortly after I had moved to Texas.  Music had been my drug of choice since I was a teenager, and experiencing three members playing the same heavy beat during the beginning of [\"There, There\"](https://www.youtube.com/watch?v=7AQSLozK7aA) reached some primal part of me that had never been touched before.\n\nThe song remains my favorite Radiohead tune and has some of my favorite lines:\n\n> Just 'cause you feel it \n\n> Doesn't mean it's there\n\nHow fallible we are, how poor our judgment...\n\n> There's always a siren\n\n> Singing you to shipwreck\n\nSo many promises sound so pretty yet lead only to disaster...\n\n> We are accidents\n\n> Waiting to happen\n\nAlways reminds me of humanity's imperfect nature...\n\nI don't know why this song and that experience are in my head right now, and I don't know why I feel compelled to write about them in this messy way, but I do and so I am.\n",
 				"date_published": "2021-04-16T17:19:00-05:00",
-				"url": "https://jakelacaze.com/2021/04/16/my-first-live.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/16/my-first-live.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/13/i-recently-obligated.html",
@@ -561,8 +476,7 @@
 				"content_html": "<p>I recently obligated myself to write at least 500 words every day. I intended to fill my obligations by writing fiction, whether vignettes or flash or stories that went beyond 500 words, but I&rsquo;ve instead filled them with philosophical rants.</p>\n\n<p>I&rsquo;m <a href=\"https://www.reddit.com/r/im14andthisisdeep/\">fourteen years old</a> again.</p>\n",
 				"content_text": "I recently obligated myself to write at least 500 words every day. I intended to fill my obligations by writing fiction, whether vignettes or flash or stories that went beyond 500 words, but I've instead filled them with philosophical rants.\n\nI'm [fourteen years old](https://www.reddit.com/r/im14andthisisdeep/) again.\n",
 				"date_published": "2021-04-13T07:17:00-05:00",
-				"url": "https://jakelacaze.com/2021/04/13/i-recently-obligated.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/13/i-recently-obligated.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/11/epictetus-has-been.html",
@@ -570,26 +484,23 @@
 				"content_html": "<p>Epictetus has been dropping some fire in the last couple entries of <em>The Daily Stoic</em>:</p>\n\n<p>4.10</p>\n\n<blockquote>\n<p>It isn&rsquo;t events themselves that disturb people, but only their judgments about them.</p>\n</blockquote>\n\n<p>4.11</p>\n\n<blockquote>\n<p>Throw out your conceited opinions, for it is impossible for a person to begin to learn what he thinks he already knows.</p>\n</blockquote>\n",
 				"content_text": "Epictetus has been dropping some fire in the last couple entries of *The Daily Stoic*:\n\n4.10\n\n> It isn't events themselves that disturb people, but only their judgments about them.\n\n4.11\n\n> Throw out your conceited opinions, for it is impossible for a person to begin to learn what he thinks he already knows.\n",
 				"date_published": "2021-04-11T07:31:00-05:00",
-				"url": "https://jakelacaze.com/2021/04/11/epictetus-has-been.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/11/epictetus-has-been.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/10/last-night-the.html",
 				
-				"content_html": "<p>Last night the sky was spoopy.</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/83d39ae68a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Last night the sky was spoopy.\n\n<img src=\"http://jakelacaze.com/uploads/2021/83d39ae68a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Last night the sky was spoopy.</p>\n\n<p><img src=\"uploads/2021/83d39ae68a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Last night the sky was spoopy.\n\n<img src=\"uploads/2021/83d39ae68a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-10T21:03:21-05:00",
-				"url": "https://jakelacaze.com/2021/04/10/last-night-the.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/10/last-night-the.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/10/spring-time-is.html",
 				
-				"content_html": "<p>Spring time is baseball time.</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/33d816f6de.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Spring time is baseball time.\n\n<img src=\"http://jakelacaze.com/uploads/2021/33d816f6de.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Spring time is baseball time.</p>\n\n<p><img src=\"uploads/2021/33d816f6de.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Spring time is baseball time.\n\n<img src=\"uploads/2021/33d816f6de.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-10T17:15:39-05:00",
-				"url": "https://jakelacaze.com/2021/04/10/spring-time-is.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/10/spring-time-is.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/09/this-week-inspired.html",
@@ -597,8 +508,7 @@
 				"content_html": "<p>This week, inspired by the <a href=\"http://jakelacaze.com/2021/04/06/i-havent-had.html\">Shuffle plugin for Obsidian</a>, I made a goal to write 500 words every day. Since making this goal, I have written every day but have hit 500 words only once&ndash;my first day, when I wrote two prompts.</p>\n\n<p>The problem is that if I have specific goals (such as including three certain words in a story), I focus only on those requirements and try to squeeze them in as quickly as possible, neglecting to write <em>an actual story</em>.</p>\n",
 				"content_text": "This week, inspired by the [Shuffle plugin for Obsidian](http://jakelacaze.com/2021/04/06/i-havent-had.html), I made a goal to write 500 words every day. Since making this goal, I have written every day but have hit 500 words only once--my first day, when I wrote two prompts. \r\n\r\nThe problem is that if I have specific goals (such as including three certain words in a story), I focus only on those requirements and try to squeeze them in as quickly as possible, neglecting to write *an actual story*. \n",
 				"date_published": "2021-04-09T06:31:48-05:00",
-				"url": "https://jakelacaze.com/2021/04/09/this-week-inspired.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/09/this-week-inspired.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/08/philip-k-dicks.html",
@@ -606,8 +516,7 @@
 				"content_html": "<p>Philip K. Dick&rsquo;s <em>The Man in the High Castle</em> is the first book I&rsquo;ve given up on this year. I would have thought a book that rewrites history so that the Axis powers win World War II would be much more interesting by the time I was a third of the way through it.</p>\n",
 				"content_text": "Philip K. Dick's *The Man in the High Castle* is the first book I've given up on this year. I would have thought a book that rewrites history so that the Axis powers win World War II would be much more interesting by the time I was a third of the way through it.\n",
 				"date_published": "2021-04-08T05:45:33-05:00",
-				"url": "https://jakelacaze.com/2021/04/08/philip-k-dicks.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/08/philip-k-dicks.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/04/ive-gone-back.html",
@@ -615,8 +524,7 @@
 				"content_html": "<p>I&rsquo;ve gone back and forth over whether to keep everything on one site or to separate certain things.</p>\n\n<p>I&rsquo;ve decided to put my creative writing on another site, <a href=\"https://turkeyhousepublishing.com\">Turkey House Publishing</a>. Much excite!</p>\n",
 				"content_text": "I've gone back and forth over whether to keep everything on one site or to separate certain things.\n\nI've decided to put my creative writing on another site, [Turkey House Publishing](https://turkeyhousepublishing.com). Much excite!\n",
 				"date_published": "2021-04-04T12:35:39-05:00",
-				"url": "https://jakelacaze.com/2021/04/04/ive-gone-back.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/04/ive-gone-back.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/03/ive-started-working.html",
@@ -624,26 +532,23 @@
 				"content_html": "<p>I&rsquo;ve started working on my own writing manifesto, a declaration of my writing goals and philosophy. It&rsquo;s fun to try to figure out where everything fits in.</p>\n",
 				"content_text": "I've started working on my own writing manifesto, a declaration of my writing goals and philosophy. It's fun to try to figure out where everything fits in.\n",
 				"date_published": "2021-04-03T20:58:49-05:00",
-				"url": "https://jakelacaze.com/2021/04/03/ive-started-working.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/03/ive-started-working.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/03/obligatory-i-spent.html",
 				
-				"content_html": "<p>Obligatory &ldquo;I spent some time outside&rdquo; selfie</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/9a73af9950.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Obligatory \"I spent some time outside\" selfie\n\n<img src=\"http://jakelacaze.com/uploads/2021/9a73af9950.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Obligatory &ldquo;I spent some time outside&rdquo; selfie</p>\n\n<p><img src=\"uploads/2021/9a73af9950.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Obligatory \"I spent some time outside\" selfie\n\n<img src=\"uploads/2021/9a73af9950.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-03T14:03:01-05:00",
-				"url": "https://jakelacaze.com/2021/04/03/obligatory-i-spent.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/03/obligatory-i-spent.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/03/i-almost-forgot.html",
 				
-				"content_html": "<p>I almost forgot I was still in DFW.</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/f89191775f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I almost forgot I was still in DFW.\n\n<img src=\"http://jakelacaze.com/uploads/2021/f89191775f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I almost forgot I was still in DFW.</p>\n\n<p><img src=\"uploads/2021/f89191775f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I almost forgot I was still in DFW.\n\n<img src=\"uploads/2021/f89191775f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-03T11:52:18-05:00",
-				"url": "https://jakelacaze.com/2021/04/03/i-almost-forgot.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/03/i-almost-forgot.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/04/02/the-last-couple.html",
@@ -651,17 +556,15 @@
 				"content_html": "<p>The last couple writing group meetings have gotten derailed, but we had a make-up session tonight. I always feel better after talking to my support group.</p>\n",
 				"content_text": "The last couple writing group meetings have gotten derailed, but we had a make-up session tonight. I always feel better after talking to my support group.\n",
 				"date_published": "2021-04-02T20:33:22-05:00",
-				"url": "https://jakelacaze.com/2021/04/02/the-last-couple.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/04/02/the-last-couple.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/30/twitter-aint-never.html",
 				
-				"content_html": "<p>Twitter ain&rsquo;t never sent me nothing like this. Wordpress neither.</p>\n\n<p>Thanks, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/5de4509474.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Twitter ain't never sent me nothing like this. Wordpress neither.\n\nThanks, [@jean](https://micro.blog/jean)!\n\n<img src=\"http://jakelacaze.com/uploads/2021/5de4509474.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Twitter ain&rsquo;t never sent me nothing like this. Wordpress neither.</p>\n\n<p>Thanks, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"uploads/2021/5de4509474.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Twitter ain't never sent me nothing like this. Wordpress neither.\n\nThanks, [@jean](https://micro.blog/jean)!\n\n<img src=\"uploads/2021/5de4509474.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-30T17:04:27-05:00",
-				"url": "https://jakelacaze.com/2021/03/30/twitter-aint-never.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/30/twitter-aint-never.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/28/due-to-microblog.html",
@@ -669,44 +572,31 @@
 				"content_html": "<p>Due to micro.blog peer pressure, I&rsquo;ve decided to give <a href=\"https://obsidian.md\">Obsidian</a> a real shot. I&rsquo;m curious to see how far I can take my writing within the program.</p>\n",
 				"content_text": "Due to micro.blog peer pressure, I've decided to give [Obsidian](https://obsidian.md) a real shot. I'm curious to see how far I can take my writing within the program.\n",
 				"date_published": "2021-03-28T19:03:33-05:00",
-				"url": "https://jakelacaze.com/2021/03/28/due-to-microblog.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/28/due-to-microblog.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/27/my-daughter-has.html",
 				
-				"content_html": "<p>My daughter has her own sense of style. Gotta give it to her</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/a214cc57ee.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My daughter has her own sense of style. Gotta give it to her\n\n<img src=\"http://jakelacaze.com/uploads/2021/a214cc57ee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My daughter has her own sense of style. Gotta give it to her</p>\n\n<p><img src=\"uploads/2021/a214cc57ee.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My daughter has her own sense of style. Gotta give it to her\n\n<img src=\"uploads/2021/a214cc57ee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-27T16:07:15-05:00",
-				"url": "https://jakelacaze.com/2021/03/27/my-daughter-has.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/03/25/new-blogging-platform.html",
-				"title": "New Blogging Platform, New Blogging Style",
-				"content_html": "<p>I hopped onto micro.blog earlier this year. I forget exactly when because this is, I believe, the third time I&rsquo;ve given the platform a shot, and I&rsquo;m too lazy to look up the exact date. In the past, I simply couldn&rsquo;t find a place for micro.blog in my digital life, but the service made sense once I turned my back yet again on Twitter. But that doesn&rsquo;t mean that my adoption has been seamless. It hasn&rsquo;t been all rainbows and unicorn farts. Once I had found a place for micro.blog, I then struggled to find my limitations for the service. Did I want it to be only a microblog? Did I want to include long-form blog posts too? What about my short stories? For someone who prefers to compartmentalize, this amounted to a blogging existential nightmare.</p>\n\n<p>I&rsquo;ve realized that much of my confusion stemmed from my insistence of holding onto my old blog posts, ones that started in 2018 when I made an effort to regularly write again. Looking through these old posts, I realized just how much they centered on grief, from the losses of my mother, father, and stepfather all so close together. As if that weren&rsquo;t enough, I also had to contend with the loss of myself, the loss of a certain innocence, a certain <em>ignorance</em>. Existential AF, y&rsquo;all.</p>\n\n<p>Those old posts are precious to me in a way that only I could fully appreciate. Writing has always been my way of making sense of the world around me, so I don&rsquo;t think it&rsquo;s hyperbole to say that these old posts helped me to make sense of my experience and that the world made less sense when I wasn&rsquo;t writing. Those old posts brought understanding. They brought tears. But they also brought peace.</p>\n\n<p>But I&rsquo;ve realized over the last couple days that I don&rsquo;t need to bring those posts with me anymore. I don&rsquo;t need to hold onto them. I am not done with my grief. But I&rsquo;m done with my grief&rsquo;s being my primary concern. It&rsquo;s time to move on and forward, because as my losses have taught me, however long I have, it won&rsquo;t be nearly long enough.</p>\n\n<p>Grief is something that stays with you. It never really leaves and it resurfaces at times and in ways you could never predict. And I think that&rsquo;s how those old posts will be: The lessons and revelations will pop up, even if I&rsquo;m unaware.</p>\n\n<p>It hasn&rsquo;t been so easy for me to embrace some of the philosophy behind micro.blog. Perhaps because I&rsquo;m approaching middle age, I found myself digging my heels in and wanting to keep a wall between a microblog and a traditional blog. I had a hard time getting behind Manton&rsquo;s claim that you&rsquo;re creating a blog even while microblogging. But as I spend more time on the platform, I&rsquo;m coming around to the idea.</p>\n\n<p>I appreciate that micro.blog has the flexibility of hosting microposts and longer posts together. I still want to write traditional blog posts from time to time, but they&rsquo;re no longer my focus. The simple truth is that most of what I want to say doesn&rsquo;t require much thought; it&rsquo;s a blip on the radar that I want to throw out into the world for whatever reason. And I want to use most of my long-form writing juice for short stories, with the hope of eventually writing a novel.</p>\n\n<p>The point of this site, my vanity project, is to capture me. Not only my long-form blog posts, but a bit of everything. And holding onto those old posts that were written on other platforms with other intentions doesn&rsquo;t serve me.</p>\n\n<p>And so, it&rsquo;s time for this old dog to learn some new tricks.</p>\n\n<hr />\n\n<p><strong>Note:</strong> I&rsquo;m planning to keep the old posts around <a href=\"https://write.as/jakelacaze/\">as an archive</a>. I still have about 4 and a half years left on my five-year subscription, so maybe it&rsquo;ll be a while before I take the old posts out back and cap them like Old Yeller.</p>",
-				"content_text": "I hopped onto micro.blog earlier this year. I forget exactly when because this is, I believe, the third time I've given the platform a shot, and I'm too lazy to look up the exact date. In the past, I simply couldn't find a place for micro.blog in my digital life, but the service made sense once I turned my back yet again on Twitter. But that doesn't mean that my adoption has been seamless. It hasn't been all rainbows and unicorn farts. Once I had found a place for micro.blog, I then struggled to find my limitations for the service. Did I want it to be only a microblog? Did I want to include long-form blog posts too? What about my short stories? For someone who prefers to compartmentalize, this amounted to a blogging existential nightmare.\n\nI've realized that much of my confusion stemmed from my insistence of holding onto my old blog posts, ones that started in 2018 when I made an effort to regularly write again. Looking through these old posts, I realized just how much they centered on grief, from the losses of my mother, father, and stepfather all so close together. As if that weren't enough, I also had to contend with the loss of myself, the loss of a certain innocence, a certain *ignorance*. Existential AF, y'all.\n\n<!--more-->\n\nThose old posts are precious to me in a way that only I could fully appreciate. Writing has always been my way of making sense of the world around me, so I don't think it's hyperbole to say that these old posts helped me to make sense of my experience and that the world made less sense when I wasn't writing. Those old posts brought understanding. They brought tears. But they also brought peace. \n\nBut I've realized over the last couple days that I don't need to bring those posts with me anymore. I don't need to hold onto them. I am not done with my grief. But I'm done with my grief's being my primary concern. It's time to move on and forward, because as my losses have taught me, however long I have, it won't be nearly long enough. \n\nGrief is something that stays with you. It never really leaves and it resurfaces at times and in ways you could never predict. And I think that's how those old posts will be: The lessons and revelations will pop up, even if I'm unaware.\n\nIt hasn't been so easy for me to embrace some of the philosophy behind micro.blog. Perhaps because I'm approaching middle age, I found myself digging my heels in and wanting to keep a wall between a microblog and a traditional blog. I had a hard time getting behind Manton's claim that you're creating a blog even while microblogging. But as I spend more time on the platform, I'm coming around to the idea. \n\nI appreciate that micro.blog has the flexibility of hosting microposts and longer posts together. I still want to write traditional blog posts from time to time, but they're no longer my focus. The simple truth is that most of what I want to say doesn't require much thought; it's a blip on the radar that I want to throw out into the world for whatever reason. And I want to use most of my long-form writing juice for short stories, with the hope of eventually writing a novel. \n\nThe point of this site, my vanity project, is to capture me. Not only my long-form blog posts, but a bit of everything. And holding onto those old posts that were written on other platforms with other intentions doesn't serve me.\n\nAnd so, it's time for this old dog to learn some new tricks.\n\n---\n**Note:** I'm planning to keep the old posts around [as an archive](https://write.as/jakelacaze/). I still have about 4 and a half years left on my five-year subscription, so maybe it'll be a while before I take the old posts out back and cap them like Old Yeller.\n",
-				"date_published": "2021-03-25T06:19:00-05:00",
-				"url": "https://jakelacaze.com/2021/03/25/new-blogging-platform.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/03/27/my-daughter-has.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/24/days-later-vibes.html",
 				
-				"content_html": "<p><em>28 Days Later</em> vibes</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/bdd3ebb552.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "*28 Days Later* vibes\n\n<img src=\"http://jakelacaze.com/uploads/2021/bdd3ebb552.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><em>28 Days Later</em> vibes</p>\n\n<p><img src=\"uploads/2021/bdd3ebb552.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "*28 Days Later* vibes\n\n<img src=\"uploads/2021/bdd3ebb552.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-24T19:24:47-05:00",
-				"url": "https://jakelacaze.com/2021/03/24/days-later-vibes.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/24/days-later-vibes.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/24/191604.html",
 				
-				"content_html": "<p><img src=\"http://jakelacaze.com/uploads/2021/1f90200daa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"http://jakelacaze.com/uploads/2021/1f90200daa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/1f90200daa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/1f90200daa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-24T19:16:04-05:00",
-				"url": "https://jakelacaze.com/2021/03/24/191604.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/24/191604.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/23/adjusting-to-pandemic.html",
@@ -714,26 +604,23 @@
 				"content_html": "<p>Adjusting to pandemic life was tough, but after the glimpse from the last few weeks, I&rsquo;m worried adjusting to post-pandemic life may be just as difficult. I forgot just how bad these DFW commutes could be.</p>\n",
 				"content_text": "Adjusting to pandemic life was tough, but after the glimpse from the last few weeks, I'm worried adjusting to post-pandemic life may be just as difficult. I forgot just how bad these DFW commutes could be.\n",
 				"date_published": "2021-03-23T16:56:00-05:00",
-				"url": "https://jakelacaze.com/2021/03/23/adjusting-to-pandemic.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/23/adjusting-to-pandemic.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/23/yeah-i-stole.html",
 				
-				"content_html": "<p>&ldquo;Yeah, I stole your man. What ya gonna do about it?&rdquo;</p>\n\n<p><img src=\"http://jakelacaze.com/uploads/2021/09c4620841.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\"Yeah, I stole your man. What ya gonna do about it?\"\n\n<img src=\"http://jakelacaze.com/uploads/2021/09c4620841.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>&ldquo;Yeah, I stole your man. What ya gonna do about it?&rdquo;</p>\n\n<p><img src=\"uploads/2021/09c4620841.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\"Yeah, I stole your man. What ya gonna do about it?\"\n\n<img src=\"uploads/2021/09c4620841.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-23T15:50:21-05:00",
-				"url": "https://jakelacaze.com/2021/03/23/yeah-i-stole.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/23/yeah-i-stole.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/21/im-going-out.html",
 				
-				"content_html": "<blockquote>\n<p>I&rsquo;m goin&rsquo; out West <br />\nWhere they appreciate me</p>\n</blockquote>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/c073e5d14c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "> I'm goin' out West \\\n> Where they appreciate me\n\n<img src=\"https://jakelacaze.com/uploads/2021/c073e5d14c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<blockquote>\n<p>I&rsquo;m goin&rsquo; out West <br />\nWhere they appreciate me</p>\n</blockquote>\n\n<p><img src=\"uploads/2021/c073e5d14c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "> I'm goin' out West \\\n> Where they appreciate me\n\n<img src=\"uploads/2021/c073e5d14c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-21T20:14:00-05:00",
-				"url": "https://jakelacaze.com/2021/03/21/im-going-out.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/21/im-going-out.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/21/i-was-recently.html",
@@ -741,17 +628,15 @@
 				"content_html": "<p>I was recently reminded me of <a href=\"http://web.mit.edu/jync/www/spam/archive.html\">the SPAM haiku archive</a>. If you&rsquo;re looking for a way to waste your Sunday&hellip;</p>\n",
 				"content_text": "I was recently reminded me of [the SPAM haiku archive](http://web.mit.edu/jync/www/spam/archive.html). If you're looking for a way to waste your Sunday...\n",
 				"date_published": "2021-03-21T08:40:24-05:00",
-				"url": "https://jakelacaze.com/2021/03/21/i-was-recently.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/21/i-was-recently.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/19/wagon-rides-are.html",
 				
-				"content_html": "<p>Wagon rides are more fun when you bring friends&hellip;lots and lots of friends</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/b8e825b785.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Wagon rides are more fun when you bring friends...lots and lots of friends\n\n<img src=\"https://jakelacaze.com/uploads/2021/b8e825b785.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Wagon rides are more fun when you bring friends&hellip;lots and lots of friends</p>\n\n<p><img src=\"uploads/2021/b8e825b785.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Wagon rides are more fun when you bring friends...lots and lots of friends\n\n<img src=\"uploads/2021/b8e825b785.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-19T20:08:13-05:00",
-				"url": "https://jakelacaze.com/2021/03/19/wagon-rides-are.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/19/wagon-rides-are.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/19/this-morning-someone.html",
@@ -759,26 +644,15 @@
 				"content_html": "<p>This morning someone responded to a work email and addressed me as &ldquo;Jack&rdquo;. Such incidents keep me humble.</p>\n",
 				"content_text": "This morning someone responded to a work email and addressed me as \"Jack\". Such incidents keep me humble.\n",
 				"date_published": "2021-03-19T09:09:45-05:00",
-				"url": "https://jakelacaze.com/2021/03/19/this-morning-someone.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/19/this-morning-someone.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/17/133925.html",
 				
-				"content_html": "<p><img src=\"https://jakelacaze.com/uploads/2021/5cf9d17162.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://jakelacaze.com/uploads/2021/5cf9d17162.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/5cf9d17162.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/5cf9d17162.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-17T13:39:25-05:00",
-				"url": "https://jakelacaze.com/2021/03/17/133925.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/03/25/play-me-a.html",
-				"title": "Play Me A Few Notes, Sonny",
-				"content_html": "<p>For me, getting older has been a bit of a mixed bag. In some ways, life gets easier as I figure things out and learn to prioritize what truly matters. If you&rsquo;re struggling with this, consider checking out <a href=\"http://micro.blog/books/0062457713\">Mark Manson&rsquo;s book on the matter</a>.</p>\n\n<p>On the other hand, I suppose it&rsquo;s only natural to long for the good old days, a time when the world made sense and we were flexible enough to adapt.</p>\n\n<p>For me, one of the saddest parts about getting older is that I don&rsquo;t listen to music the way I used to. I don&rsquo;t listen to complete albums. I don&rsquo;t obsess over the details of the production and instrumentation, the stories behind the songs. And that&rsquo;s what one would expect, because I&rsquo;m an adult with responsibilities, and my time is more precious than it was when I was a teenager in podunk Louisiana, using music as my escape.</p>\n\n<p>But man, how I used to get high on tunes. I remember the drama of downloading songs via Napster on my home computer&rsquo;s 19.2kbps dial-up connection. So many times I&rsquo;d wait nearly an hour for a song to download, only to have the connection severed at the end, leaving the file incomplete and unusable. I also searched out albums on the Tower Records website and then sat in agony over the next few days&ndash;or maybe it was weeks; I&rsquo;ve been spoiled so long by Amazon&rsquo;s two-day deliveries that I forget what it was like before&ndash;and there was little as exciting as getting new CDs in the mail. I used to love playing a CD low while I slept, one of my favorites being My Bloody Valentine&rsquo;s <em>Loveless</em>. (Side note: I think My Bloody Valentine&rsquo;s &ldquo;When You Sleep&rdquo; is the most interesting song to search for <a href=\"https://www.youtube.com/results?search_query=when+you+sleep+cover\">covers on YouTube</a>.)</p>\n\n<p>My best friend in college is the only person from my Louisiana days that I stay in frequent contact with. While we&rsquo;ve both grown over the years&ndash;and so has our relationship&ndash;it all started due to music, when I complimented his t-shirt of The Cure&rsquo;s <em>Disintegration</em> album, my favorite of all time. We soon discovered we liked many of the same bands beyond The Cure: Joy Division, Pixies, Primal Scream, My Bloody Valentine, etc. Music wasn&rsquo;t our only thing. We enjoyed many of the same movies. We played video games. We both loved <a href=\"https://www.johnnysph.com\">Johnny&rsquo;s Pizza</a>. But I doubt we would have ever had the friendship I cherish if it weren&rsquo;t for music.</p>\n\n<p>Recently, someone on micro.blog&ndash;I believe it was <a href=\"https://andrewdoran.uk/blog/?s=bandcamp&amp;submit=Search\">Andrew Doran</a>&ndash;was pushing <a href=\"https://bandcamp.com\">Bandcamp</a> as a great platform for musicians. I had used Bandcamp in the past and had just a few months before bought my first album on there, but for some reason, this post resonated with me and convinced me to dive a bit deeper, resulting in the purchase of ten more albums, the most recent being this morning&rsquo;s purchase of <em>Yawn</em> by <a href=\"https://billryderjonesmusic.bandcamp.com\">Bill Ryder-Jones</a>. Jones is one of my favorite new-to-me artists of the last few years, and <em>Yawn</em> is persistently melancholy, making for great music to reminisce to.</p>\n\n<p>I&rsquo;ve spent the last few weeks listening to music I have paid for. I find I&rsquo;m more likely to listen to a complete album, to experience the whole piece. Music matters more again. It inspires more again. And this practice has the added benefit of making me get more value out of my Plex server.</p>\n\n<p>Perhaps paradoxically, I think having such easy access to music via streaming services like Spotify had killed the value of music for me. There&rsquo;s something about going out of your way to purchase music. It&rsquo;s how you show what you value. It&rsquo;s an investment&ndash;of money and time&ndash;even in the click-buy-and-download of today&rsquo;s internet.</p>\n\n<p>To be clear, I am not saying that we should all shun such streaming services. Some people may not be able to fork over $10 or so per album. And the platforms do help artists get exposure. I likely wouldn&rsquo;t have discovered artists such as Bill Ryder-Jones if it weren&rsquo;t for Spotify.</p>\n\n<p>But individuals don&rsquo;t have to take every option they&rsquo;re presented with. Sometimes there&rsquo;s a certain freedom in saying no. And maybe this is one of those situations for me.</p>",
-				"content_text": "For me, getting older has been a bit of a mixed bag. In some ways, life gets easier as I figure things out and learn to prioritize what truly matters. If you're struggling with this, consider checking out [Mark Manson's book on the matter](http://micro.blog/books/0062457713).\n\nOn the other hand, I suppose it's only natural to long for the good old days, a time when the world made sense and we were flexible enough to adapt.\n\nFor me, one of the saddest parts about getting older is that I don't listen to music the way I used to. I don't listen to complete albums. I don't obsess over the details of the production and instrumentation, the stories behind the songs. And that's what one would expect, because I'm an adult with responsibilities, and my time is more precious than it was when I was a teenager in podunk Louisiana, using music as my escape.\n\n<!--more-->\n\nBut man, how I used to get high on tunes. I remember the drama of downloading songs via Napster on my home computer's 19.2kbps dial-up connection. So many times I'd wait nearly an hour for a song to download, only to have the connection severed at the end, leaving the file incomplete and unusable. I also searched out albums on the Tower Records website and then sat in agony over the next few days--or maybe it was weeks; I've been spoiled so long by Amazon's two-day deliveries that I forget what it was like before--and there was little as exciting as getting new CDs in the mail. I used to love playing a CD low while I slept, one of my favorites being My Bloody Valentine's *Loveless*. (Side note: I think My Bloody Valentine's \"When You Sleep\" is the most interesting song to search for [covers on YouTube](https://www.youtube.com/results?search_query=when+you+sleep+cover).)\n\nMy best friend in college is the only person from my Louisiana days that I stay in frequent contact with. While we've both grown over the years--and so has our relationship--it all started due to music, when I complimented his t-shirt of The Cure's *Disintegration* album, my favorite of all time. We soon discovered we liked many of the same bands beyond The Cure: Joy Division, Pixies, Primal Scream, My Bloody Valentine, etc. Music wasn't our only thing. We enjoyed many of the same movies. We played video games. We both loved [Johnny's Pizza](https://www.johnnysph.com). But I doubt we would have ever had the friendship I cherish if it weren't for music.\n\nRecently, someone on micro.blog--I believe it was [Andrew Doran](https://andrewdoran.uk/blog/?s=bandcamp&submit=Search)--was pushing [Bandcamp](https://bandcamp.com) as a great platform for musicians. I had used Bandcamp in the past and had just a few months before bought my first album on there, but for some reason, this post resonated with me and convinced me to dive a bit deeper, resulting in the purchase of ten more albums, the most recent being this morning's purchase of *Yawn* by [Bill Ryder-Jones](https://billryderjonesmusic.bandcamp.com). Jones is one of my favorite new-to-me artists of the last few years, and *Yawn* is persistently melancholy, making for great music to reminisce to.\n\nI've spent the last few weeks listening to music I have paid for. I find I'm more likely to listen to a complete album, to experience the whole piece. Music matters more again. It inspires more again. And this practice has the added benefit of making me get more value out of my Plex server.\n\nPerhaps paradoxically, I think having such easy access to music via streaming services like Spotify had killed the value of music for me. There's something about going out of your way to purchase music. It's how you show what you value. It's an investment--of money and time--even in the click-buy-and-download of today's internet.\n\nTo be clear, I am not saying that we should all shun such streaming services. Some people may not be able to fork over $10 or so per album. And the platforms do help artists get exposure. I likely wouldn't have discovered artists such as Bill Ryder-Jones if it weren't for Spotify.\n\nBut individuals don't have to take every option they're presented with. Sometimes there's a certain freedom in saying no. And maybe this is one of those situations for me.\n",
-				"date_published": "2021-03-17T05:47:00-05:00",
-				"url": "https://jakelacaze.com/2021/03/25/play-me-a.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/03/17/133925.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/15/i-was-planning.html",
@@ -786,26 +660,23 @@
 				"content_html": "<p>I was planning to release a short story collection on Kindle, but now I&rsquo;m thinking about putting it together in iA writer and releasing it as an EPUB.</p>\n\n<p>I don&rsquo;t have much of a digital presence and I&rsquo;m not going to put a marketing strategy behind it. The real value will come from the experience of putting the collection together. And if some people read it and I get some exposure, that&rsquo;ll be pure bonus.</p>\n",
 				"content_text": "I was planning to release a short story collection on Kindle, but now I'm thinking about putting it together in iA writer and releasing it as an EPUB.\r\n\r\nI don't have much of a digital presence and I'm not going to put a marketing strategy behind it. The real value will come from the experience of putting the collection together. And if some people read it and I get some exposure, that'll be pure bonus.\n",
 				"date_published": "2021-03-15T10:40:13-05:00",
-				"url": "https://jakelacaze.com/2021/03/15/i-was-planning.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/15/i-was-planning.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/14/the-toddler-life.html",
 				
-				"content_html": "<p>The toddler life has been rough, but in this moment, all was well.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/2708bd7c13.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The toddler life has been rough, but in this moment, all was well.\n\n<img src=\"https://jakelacaze.com/uploads/2021/2708bd7c13.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The toddler life has been rough, but in this moment, all was well.</p>\n\n<p><img src=\"uploads/2021/2708bd7c13.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The toddler life has been rough, but in this moment, all was well.\n\n<img src=\"uploads/2021/2708bd7c13.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-14T21:05:41-05:00",
-				"url": "https://jakelacaze.com/2021/03/14/the-toddler-life.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/14/the-toddler-life.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/13/someone-recently-shared.html",
 				
-				"content_html": "<p>Someone recently shared a story about how he had to dodge the clothesline whenever he backed out to leave his grandmother&rsquo;s house and then when he went back to her place after she&rsquo;d died, he accommodated for the clothesline even though it was no longer there.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/53e717e77e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Someone recently shared a story about how he had to dodge the clothesline whenever he backed out to leave his grandmother's house and then when he went back to her place after she'd died, he accommodated for the clothesline even though it was no longer there.\n\n<img src=\"https://jakelacaze.com/uploads/2021/53e717e77e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Someone recently shared a story about how he had to dodge the clothesline whenever he backed out to leave his grandmother&rsquo;s house and then when he went back to her place after she&rsquo;d died, he accommodated for the clothesline even though it was no longer there.</p>\n\n<p><img src=\"uploads/2021/53e717e77e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Someone recently shared a story about how he had to dodge the clothesline whenever he backed out to leave his grandmother's house and then when he went back to her place after she'd died, he accommodated for the clothesline even though it was no longer there.\n\n<img src=\"uploads/2021/53e717e77e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-13T10:27:59-05:00",
-				"url": "https://jakelacaze.com/2021/03/13/someone-recently-shared.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/13/someone-recently-shared.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/12/ive-been-in.html",
@@ -813,134 +684,103 @@
 				"content_html": "<p>I&rsquo;ve been in a writing funk lately. This morning I forced myself to resume a certain short story, which took a slight turn and excited me and now has the writer wheels in my brain turning again.</p>\n\n<p>I&rsquo;m sure there&rsquo;s a moral somewhere in this anecdote.</p>\n",
 				"content_text": "I've been in a writing funk lately. This morning I forced myself to resume a certain short story, which took a slight turn and excited me and now has the writer wheels in my brain turning again.\r\n\r\nI'm sure there's a moral somewhere in this anecdote.\n",
 				"date_published": "2021-03-12T07:36:35-05:00",
-				"url": "https://jakelacaze.com/2021/03/12/ive-been-in.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/03/25/the-new-routine.html",
-				"title": "The New Routine",
-				"content_html": "<p>I had just started getting a hold of a routine when the pandemic came along and crapped right on my best efforts. I spent most of 2020 trying to regain some semblance of routine. I&rsquo;m sure I&rsquo;m hardly alone in that struggle. The good news is that the last year has given plenty of opportunity to realign my priorities.</p>\n\n<p>Now, in the spring of 2021, the message feels consistent and real for America: There&rsquo;s reason for optimism. The consensus seems to be that by summer, every American adult who wants the vaccine will have the opportunity to get the jab. And that actually seems to be the <em>worst case scenario</em> now.</p>\n\n<p>Earlier this week, while stuck at a red light in the seemingly busier Dallas-Fort Worth traffic, I caught myself daydreaming about the near future. I let my guard down and started wondering what my immediate post-pandemic future looks like. I was considering the revelation of this past year and beginning to think about the new routine.</p>\n\n<p>The globe won&rsquo;t go back to normal by summer, as other countries won&rsquo;t have access to the vaccine. But I&rsquo;m excited for some sort of progress. If we can&rsquo;t win the war yet, at least we can win a battle.</p>",
-				"content_text": "I had just started getting a hold of a routine when the pandemic came along and crapped right on my best efforts. I spent most of 2020 trying to regain some semblance of routine. I'm sure I'm hardly alone in that struggle. The good news is that the last year has given plenty of opportunity to realign my priorities. \n\nNow, in the spring of 2021, the message feels consistent and real for America: There's reason for optimism. The consensus seems to be that by summer, every American adult who wants the vaccine will have the opportunity to get the jab. And that actually seems to be the *worst case scenario* now. \n\n<!--more-->\n\nEarlier this week, while stuck at a red light in the seemingly busier Dallas-Fort Worth traffic, I caught myself daydreaming about the near future. I let my guard down and started wondering what my immediate post-pandemic future looks like. I was considering the revelation of this past year and beginning to think about the new routine. \n\nThe globe won't go back to normal by summer, as other countries won't have access to the vaccine. But I'm excited for some sort of progress. If we can't win the war yet, at least we can win a battle.\n",
-				"date_published": "2021-03-11T05:50:00-05:00",
-				"url": "https://jakelacaze.com/2021/03/25/the-new-routine.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/03/12/ive-been-in.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/03/04/im-ready-for.html",
 				
-				"content_html": "<p>I&rsquo;m ready for the return of spring. I need to take advantage of the weather and longer days by playing more disc golf.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/1048c7a031.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I'm ready for the return of spring. I need to take advantage of the weather and longer days by playing more disc golf.\n\n<img src=\"https://jakelacaze.com/uploads/2021/1048c7a031.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m ready for the return of spring. I need to take advantage of the weather and longer days by playing more disc golf.</p>\n\n<p><img src=\"uploads/2021/1048c7a031.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I'm ready for the return of spring. I need to take advantage of the weather and longer days by playing more disc golf.\n\n<img src=\"uploads/2021/1048c7a031.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-04T12:41:20-05:00",
-				"url": "https://jakelacaze.com/2021/03/04/im-ready-for.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/03/04/im-ready-for.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/27/its-coming-right.html",
 				
-				"content_html": "<p>&ldquo;It&rsquo;s coming right for us!&rdquo;</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/a2243b02dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\"It's coming right for us!\"\n\n<img src=\"https://jakelacaze.com/uploads/2021/a2243b02dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>&ldquo;It&rsquo;s coming right for us!&rdquo;</p>\n\n<p><img src=\"uploads/2021/a2243b02dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\"It's coming right for us!\"\n\n<img src=\"uploads/2021/a2243b02dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-27T16:41:07-05:00",
-				"url": "https://jakelacaze.com/2021/02/27/its-coming-right.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/27/its-coming-right.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/27/inside-the-old.html",
 				
-				"content_html": "<p>Inside the old George Bush home in Midland, TX</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/ec61c07cce.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Inside the old George Bush home in Midland, TX\n\n<img src=\"https://jakelacaze.com/uploads/2021/ec61c07cce.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Inside the old George Bush home in Midland, TX</p>\n\n<p><img src=\"uploads/2021/ec61c07cce.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Inside the old George Bush home in Midland, TX\n\n<img src=\"uploads/2021/ec61c07cce.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-27T16:38:30-05:00",
-				"url": "https://jakelacaze.com/2021/02/27/inside-the-old.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/27/inside-the-old.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/27/our-world-has.html",
 				
-				"content_html": "<p>Our world has never been so divided. Literally.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/e5a446d993.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Our world has never been so divided. Literally.\n\n<img src=\"https://jakelacaze.com/uploads/2021/e5a446d993.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Our world has never been so divided. Literally.</p>\n\n<p><img src=\"uploads/2021/e5a446d993.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Our world has never been so divided. Literally.\n\n<img src=\"uploads/2021/e5a446d993.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-27T16:34:26-05:00",
-				"url": "https://jakelacaze.com/2021/02/27/our-world-has.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/27/our-world-has.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/27/a-couple-years.html",
 				
-				"content_html": "<p>A couple years ago, my son picked up this bookmark and said, &ldquo;It&rsquo;s you, Daddy,&rdquo; alerting me that I am literally his model for what it means to be a man.</p>\n\n<p>No pressure, son. No pressure.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/b61e344ef0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A couple years ago, my son picked up this bookmark and said, \"It's you, Daddy,\" alerting me that I am literally his model for what it means to be a man.\r\n\r\nNo pressure, son. No pressure.\n\n<img src=\"https://jakelacaze.com/uploads/2021/b61e344ef0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A couple years ago, my son picked up this bookmark and said, &ldquo;It&rsquo;s you, Daddy,&rdquo; alerting me that I am literally his model for what it means to be a man.</p>\n\n<p>No pressure, son. No pressure.</p>\n\n<p><img src=\"uploads/2021/b61e344ef0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A couple years ago, my son picked up this bookmark and said, \"It's you, Daddy,\" alerting me that I am literally his model for what it means to be a man.\r\n\r\nNo pressure, son. No pressure.\n\n<img src=\"uploads/2021/b61e344ef0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-27T16:30:54-05:00",
-				"url": "https://jakelacaze.com/2021/02/27/a-couple-years.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/27/a-couple-years.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/26/065057.html",
 				
-				"content_html": "<p>An abandoned car and RV in Terlingua, TX</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/1ecb73eb82.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "An abandoned car and RV in Terlingua, TX\n\n<img src=\"https://jakelacaze.com/uploads/2021/1ecb73eb82.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>An abandoned car and RV in Terlingua, TX</p>\n\n<p><img src=\"uploads/2021/1ecb73eb82.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "An abandoned car and RV in Terlingua, TX\n\n<img src=\"uploads/2021/1ecb73eb82.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-26T07:50:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/26/065057.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/26/065057.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/26/the-baker-hotel.html",
 				
-				"content_html": "<p>The Baker Hotel in Mineral Wells, TX</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/973b374932.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The Baker Hotel in Mineral Wells, TX\n\n<img src=\"https://jakelacaze.com/uploads/2021/973b374932.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The Baker Hotel in Mineral Wells, TX</p>\n\n<p><img src=\"uploads/2021/973b374932.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The Baker Hotel in Mineral Wells, TX\n\n<img src=\"uploads/2021/973b374932.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-26T07:50:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/26/the-baker-hotel.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/26/the-baker-hotel.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/26/the-old-scout.html",
 				
-				"content_html": "<p>The old scout shack in Texon, TX</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/e5495ed6b4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The old scout shack in Texon, TX\n\n<img src=\"https://jakelacaze.com/uploads/2021/e5495ed6b4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The old scout shack in Texon, TX</p>\n\n<p><img src=\"uploads/2021/e5495ed6b4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The old scout shack in Texon, TX\n\n<img src=\"uploads/2021/e5495ed6b4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-26T07:49:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/26/the-old-scout.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/26/the-old-scout.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/26/the-smokestack-monument.html",
 				
-				"content_html": "<p>The smokestack monument in Thurber, TX</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/23e0c30b8b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The smokestack monument in Thurber, TX\n\n<img src=\"https://jakelacaze.com/uploads/2021/23e0c30b8b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The smokestack monument in Thurber, TX</p>\n\n<p><img src=\"uploads/2021/23e0c30b8b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The smokestack monument in Thurber, TX\n\n<img src=\"uploads/2021/23e0c30b8b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-26T07:49:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/26/the-smokestack-monument.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/26/the-smokestack-monument.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/26/inside-the-former.html",
 				
-				"content_html": "<p>Inside the former Reagan County courthouse in Stiles, TX</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/408cd1b22d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Inside the former Reagan County courthouse in Stiles, TX\n\n<img src=\"https://jakelacaze.com/uploads/2021/408cd1b22d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Inside the former Reagan County courthouse in Stiles, TX</p>\n\n<p><img src=\"uploads/2021/408cd1b22d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Inside the former Reagan County courthouse in Stiles, TX\n\n<img src=\"uploads/2021/408cd1b22d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-26T07:48:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/26/inside-the-former.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/26/inside-the-former.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/26/the-former-reagan.html",
 				
-				"content_html": "<p>The former Reagan County courthouse in Stiles, TX</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/777b5884c6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The former Reagan County courthouse in Stiles, TX\n\n<img src=\"https://jakelacaze.com/uploads/2021/777b5884c6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The former Reagan County courthouse in Stiles, TX</p>\n\n<p><img src=\"uploads/2021/777b5884c6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The former Reagan County courthouse in Stiles, TX\n\n<img src=\"uploads/2021/777b5884c6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-26T07:48:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/26/the-former-reagan.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/26/the-former-reagan.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/24/our-last-visit.html",
 				
-				"content_html": "<p>Our last visit to Fry&rsquo;s, in January 2020. I had never before been sad to see a store withering away.</p>\n\n<p>I wasted so much money here and bought my son so many 50-cent ninja men from the gumball-style machines at the front of the store.</p>\n\n<p><a href=\"https://www.cbsnews.com/news/frys-electronics-chain-closing/\">RIP in peace</a>, Fry&rsquo;s</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/fdf8f56632.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Our last visit to Fry's, in January 2020. I had never before been sad to see a store withering away.\n\nI wasted so much money here and bought my son so many 50-cent ninja men from the gumball-style machines at the front of the store.\n\n[RIP in peace](https://www.cbsnews.com/news/frys-electronics-chain-closing/), Fry's\n\n<img src=\"https://jakelacaze.com/uploads/2021/fdf8f56632.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Our last visit to Fry&rsquo;s, in January 2020. I had never before been sad to see a store withering away.</p>\n\n<p>I wasted so much money here and bought my son so many 50-cent ninja men from the gumball-style machines at the front of the store.</p>\n\n<p><a href=\"https://www.cbsnews.com/news/frys-electronics-chain-closing/\">RIP in peace</a>, Fry&rsquo;s</p>\n\n<p><img src=\"uploads/2021/fdf8f56632.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Our last visit to Fry's, in January 2020. I had never before been sad to see a store withering away.\n\nI wasted so much money here and bought my son so many 50-cent ninja men from the gumball-style machines at the front of the store.\n\n[RIP in peace](https://www.cbsnews.com/news/frys-electronics-chain-closing/), Fry's\n\n<img src=\"uploads/2021/fdf8f56632.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-24T08:20:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/24/our-last-visit.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/03/25/the-lessons-of.html",
-				"title": "The Lessons of 2020 and Beyond",
-				"content_html": "<p>2020 is behind us, but the mood carries on, so we find ourselves in limbo, able to reflect on our recent past while still experiencing it.</p>\n\n<p>On December 31, it seemed as if most people were optimistic that 2021 was going to be instantly better than 2020. But as the coronavirus has persisted and after the Capitol riots, a co-worker and I agreed that 2021 is just 2020 overtime. I&rsquo;m glad I prepared myself for the possibility that 2021 may suck harder than 2020.</p>\n\n<p>Last week, Texas was hit with an epic storm. Millions lost power. Some lost water or had to boil before use. Compared to some, my family was lucky. We were without power for most of Monday and Tuesday, but we did have little blocks of time in which we were electrified, allowing us to recharge our devices and prep meals in advance.</p>\n\n<p>Though this recent polar vortex, arctic blast, deep freeze&ndash;whatever you want to call it&ndash;was a new challenge, in so many ways it echoed my biggest takeaway of 2020:</p>\n\n<h2 id=\"even-well-functioning-systems-are-fragile\">Even well-functioning systems are fragile.</h2>\n\n<p>America was on a roll before the pandemic. The stock market looked as if it could go only up. And it was a given that America would be business-as-usual on any given day.</p>\n\n<p>When was the last time the whole nation slowed down? The 1970s oil crisis? World War II, when everyone had to sacrifice in some way to support the war effort? We can argue about the specific answer to the question, but the larger point stays the same: In so many ways, we&rsquo;ve had it so good for so long.</p>\n\n<p>What could possibly derail this gravy train? Apparently, all it took was a virus that mutated in a wet market in some little corner of China. There&rsquo;s no point in recapping what has happened since then: We&rsquo;ve all experienced it and we&rsquo;re all aware, and if this doesn&rsquo;t apply to you, how? Who are you? I wanna know.</p>\n\n<p>Texas is a state proud of its size. At one time while driving around Dallas-Fort Worth, you could find billboard signs advertising that Texas is bigger than France and that DFW Airport than the island of Manhattan. If you go to a restaurant and find yourself wondering what &ldquo;Texas size&rdquo; means, rest assured it ain&rsquo;t the diet portion.</p>\n\n<p>So when Texas gets a taste of a winter storm, it gets a BIG taste. As I said before, I lost power for significant portions of last week, but some people were without power and water for days. Some people&rsquo;s homes were destroyed due to water damage from burst pipes. The damage was big and the insurance claims will be big and the FEMA relief will likely be big.</p>\n\n<p>This experience prompted me to ask, When was the last time I had to go without power for multiple days? I imagine I last experienced this in the &lsquo;90s as a kid when north Louisiana got hit with a freak ice storm. (And my wife wonders why I hate the cold.)</p>\n\n<p>We take for granted that we&rsquo;ll have electricity, running water, and natural gas at our beck and call. We expect restaurants and businesses to be open. We expect grocery stores to keep their shelves stocked with everything we could want or need.</p>\n\n<p>And yet it takes only one chill to derail it all. To bring West Texas oil production to a halt. To negate the streak of comfort we grew accustomed to.</p>\n\n<p>Of course, maybe <a href=\"https://us11.campaign-archive.com/?u=de2bc41f8324e6955ef65e0c9&amp;id=696481ad49\">the fallout wouldn&rsquo;t have been so drastic if Texas&rsquo;s power infrastructure were properly winterized</a>, but don&rsquo;t tell Governor Abbott that as he seeks to blame anything else for the disaster.</p>\n\n<p>Onward to Lesson #2:</p>\n\n<h2 id=\"no-matter-how-impressive-an-individual-or-organization-remember-that-he-or-it-can-still-falter\">No matter how impressive an individual or organization, remember that he or it can still falter.</h2>\n\n<p>It&rsquo;s early 2021. The world has at least three vaccines. America, whose citizens found a way to all but guarantee two-day shipping to nearly every corner of the lower 48, can&rsquo;t roll out doses in a timely manner. Yes, there are some unusual circumstances, such as at least one of the vaccines needing to be stored at extreme cold temperatures, but there have been problems getting doses to people who want them even when the vaccine has reached vaccination locations.</p>\n\n<p>If you had to say that America had <em>only one thing</em> figured out, logistics would be a good candidate. And yet we&rsquo;re pooping on ourselves in a crucial moment.</p>\n\n<p>To be clear, I don&rsquo;t mean to come across as pointing the finger. In light of my ignorance, I know that this vaccine rollout is far more complex than I will ever understand. But one of the keys to daily contentedness lies in managing one&rsquo;s expectations. And we need to start expecting things to go wrong more often, and if they don&rsquo;t go wrong&ndash;well, hopefully we&rsquo;ll be that much more appreciative.</p>\n\n<p>That brings me to lesson #3, which is more of a general bonus lesson rather than one tied to 2020 and beyond:</p>\n\n<h2 id=\"don-t-compare-a-situation-to-an-ideal-of-utopia-instead-compare-it-to-its-past-iterations\">Don&rsquo;t compare a situation to an ideal of Utopia. Instead compare it to its past iterations.</h2>\n\n<p>When I hear people criticize a system they&rsquo;ve become disenchanted with, they usually jump to the question of why isn&rsquo;t the system better AKA perfect.</p>\n\n<p>To give an example that (hopefully) won&rsquo;t anger anyone, you&rsquo;ve likely seen people online asking why we didn&rsquo;t get hoverboards back in 2015 like the <em>Back to the Future</em> franchise promised back in the &lsquo;80s. I know, it&rsquo;s easy to feel as if we&rsquo;ve been cheated. But keep in mind that just over 100 years ago, we had to travel by horse and buggy. A trip that now takes an hour in your car might have been a multiple-day trip, depending on the terrain and conditions. And then you&rsquo;d get halfway there, and your horse would step in some soft ground and break his leg and you&rsquo;d have to take him out like Old Yeller and ask yourself whether you want to head back home or continue on to your destination on foot. When I look at it that way, I&rsquo;m fine missing out on hoverboards.</p></p>\n\n<p><p>For the record, this doesn&rsquo;t mean that we should only be content with what we have and not strive for progress or something better. But we should hold close an appreciation of where we&rsquo;ve come from. Also, acknowledging progress made gives a bit of hope, because if we&rsquo;ve done better in the past, there&rsquo;s no reason we can&rsquo;t do better in the future. But looking ahead to a Utopia that will never exist actually does the opposite: It gives the impression that we will never achieve greatness.</p>\n\n<p>And of course, you may say that 100 years is so long ago, we should expect to have it much better. But keep in mind that 100 years is now little more than a lifetime (at least in America).</p>\n\n<p>The world changes in the blink of an eye. If you&rsquo;re not convinced of that, at least acknowledge that <em>your</em> world can chance in such a span.</p>\n\n<p>And 2020 and beyond have shown me the importance of being mentally prepared for the possibilities.</p>",
-				"content_text": "2020 is behind us, but the mood carries on, so we find ourselves in limbo, able to reflect on our recent past while still experiencing it.\n\nOn December 31, it seemed as if most people were optimistic that 2021 was going to be instantly better than 2020. But as the coronavirus has persisted and after the Capitol riots, a co-worker and I agreed that 2021 is just 2020 overtime. I'm glad I prepared myself for the possibility that 2021 may suck harder than 2020.\n\n<!--more-->\n\nLast week, Texas was hit with an epic storm. Millions lost power. Some lost water or had to boil before use. Compared to some, my family was lucky. We were without power for most of Monday and Tuesday, but we did have little blocks of time in which we were electrified, allowing us to recharge our devices and prep meals in advance.\n\nThough this recent polar vortex, arctic blast, deep freeze--whatever you want to call it--was a new challenge, in so many ways it echoed my biggest takeaway of 2020:\n\n## Even well-functioning systems are fragile.\n\nAmerica was on a roll before the pandemic. The stock market looked as if it could go only up. And it was a given that America would be business-as-usual on any given day.\n\nWhen was the last time the whole nation slowed down? The 1970s oil crisis? World War II, when everyone had to sacrifice in some way to support the war effort? We can argue about the specific answer to the question, but the larger point stays the same: In so many ways, we've had it so good for so long.\n\nWhat could possibly derail this gravy train? Apparently, all it took was a virus that mutated in a wet market in some little corner of China. There's no point in recapping what has happened since then: We've all experienced it and we're all aware, and if this doesn't apply to you, how? Who are you? I wanna know.\n\nTexas is a state proud of its size. At one time while driving around Dallas-Fort Worth, you could find billboard signs advertising that Texas is bigger than France and that DFW Airport than the island of Manhattan. If you go to a restaurant and find yourself wondering what \"Texas size\" means, rest assured it ain't the diet portion.\n\nSo when Texas gets a taste of a winter storm, it gets a BIG taste. As I said before, I lost power for significant portions of last week, but some people were without power and water for days. Some people's homes were destroyed due to water damage from burst pipes. The damage was big and the insurance claims will be big and the FEMA relief will likely be big.\n\nThis experience prompted me to ask, When was the last time I had to go without power for multiple days? I imagine I last experienced this in the '90s as a kid when north Louisiana got hit with a freak ice storm. (And my wife wonders why I hate the cold.)\n\nWe take for granted that we'll have electricity, running water, and natural gas at our beck and call. We expect restaurants and businesses to be open. We expect grocery stores to keep their shelves stocked with everything we could want or need.\n\nAnd yet it takes only one chill to derail it all. To bring West Texas oil production to a halt. To negate the streak of comfort we grew accustomed to.\n\nOf course, maybe [the fallout wouldn't have been so drastic if Texas's power infrastructure were properly winterized](https://us11.campaign-archive.com/?u=de2bc41f8324e6955ef65e0c9&id=696481ad49), but don't tell Governor Abbott that as he seeks to blame anything else for the disaster.\n\nOnward to Lesson #2:\n\n## No matter how impressive an individual or organization, remember that he or it can still falter.\n\nIt's early 2021. The world has at least three vaccines. America, whose citizens found a way to all but guarantee two-day shipping to nearly every corner of the lower 48, can't roll out doses in a timely manner. Yes, there are some unusual circumstances, such as at least one of the vaccines needing to be stored at extreme cold temperatures, but there have been problems getting doses to people who want them even when the vaccine has reached vaccination locations.\n\nIf you had to say that America had *only one thing* figured out, logistics would be a good candidate. And yet we're pooping on ourselves in a crucial moment.\n\nTo be clear, I don't mean to come across as pointing the finger. In light of my ignorance, I know that this vaccine rollout is far more complex than I will ever understand. But one of the keys to daily contentedness lies in managing one's expectations. And we need to start expecting things to go wrong more often, and if they don't go wrong--well, hopefully we'll be that much more appreciative.\n\nThat brings me to lesson #3, which is more of a general bonus lesson rather than one tied to 2020 and beyond:\n\n## Don't compare a situation to an ideal of Utopia. Instead compare it to its past iterations.\n\nWhen I hear people criticize a system they've become disenchanted with, they usually jump to the question of why isn't the system better AKA perfect.\n\nTo give an example that (hopefully) won't anger anyone, you've likely seen people online asking why we didn't get hoverboards back in 2015 like the <em>Back to the Future</em> franchise promised back in the '80s. I know, it's easy to feel as if we've been cheated. But keep in mind that just over 100 years ago, we had to travel by horse and buggy. A trip that now takes an hour in your car might have been a multiple-day trip, depending on the terrain and conditions. And then you'd get halfway there, and your horse would step in some soft ground and break his leg and you'd have to take him out like Old Yeller and ask yourself whether you want to head back home or continue on to your destination on foot. When I look at it that way, I'm fine missing out on hoverboards.</p>\n\n<p>For the record, this doesn't mean that we should only be content with what we have and not strive for progress or something better. But we should hold close an appreciation of where we've come from. Also, acknowledging progress made gives a bit of hope, because if we've done better in the past, there's no reason we can't do better in the future. But looking ahead to a Utopia that will never exist actually does the opposite: It gives the impression that we will never achieve greatness.\n\nAnd of course, you may say that 100 years is so long ago, we should expect to have it much better. But keep in mind that 100 years is now little more than a lifetime (at least in America).\n\nThe world changes in the blink of an eye. If you're not convinced of that, at least acknowledge that *your* world can chance in such a span.\n\nAnd 2020 and beyond have shown me the importance of being mentally prepared for the possibilities.\n",
-				"date_published": "2021-02-20T05:53:00-05:00",
-				"url": "https://jakelacaze.com/2021/03/25/the-lessons-of.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/02/24/our-last-visit.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/19/reading-ernest-hemingways.html",
@@ -948,8 +788,7 @@
 				"content_html": "<p>Reading Ernest Hemingway&rsquo;s <em>In Our Time</em> makes me realize that I don&rsquo;t dislike Hemingway&ndash;I dislike Hemingway&rsquo;s novels. His short stories are top notch.</p>\n",
 				"content_text": "Reading Ernest Hemingway's *In Our Time* makes me realize that I don't dislike Hemingway--I dislike Hemingway's novels. His short stories are top notch.\n",
 				"date_published": "2021-02-19T10:40:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/19/reading-ernest-hemingways.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/19/reading-ernest-hemingways.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/19/takeaways-from-and.html",
@@ -957,17 +796,15 @@
 				"content_html": "<p>2 takeaways from 2020 and beyond:</p>\n\n<ol>\n<li><p>When criticizing a system, don&rsquo;t compare it to Utopia. Compare it to absolute disaster, since that is far likelier than Utopia.</p></li>\n\n<li><p>Functioning systems are not a given; they are blessings which can be easily derailed.</p></li>\n</ol>\n",
 				"content_text": "2 takeaways from 2020 and beyond:\r\n\r\n1. When criticizing a system, don't compare it to Utopia. Compare it to absolute disaster, since that is far likelier than Utopia.\r\n\r\n2. Functioning systems are not a given; they are blessings which can be easily derailed.\n",
 				"date_published": "2021-02-19T07:10:19-05:00",
-				"url": "https://jakelacaze.com/2021/02/19/takeaways-from-and.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/19/takeaways-from-and.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/17/shes-had-enough.html",
 				
-				"content_html": "<p>She&rsquo;s had enough.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/ffb96e6cc8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "She's had enough.\n\n<img src=\"https://jakelacaze.com/uploads/2021/ffb96e6cc8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>She&rsquo;s had enough.</p>\n\n<p><img src=\"uploads/2021/ffb96e6cc8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "She's had enough.\n\n<img src=\"uploads/2021/ffb96e6cc8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-17T16:28:48-05:00",
-				"url": "https://jakelacaze.com/2021/02/17/shes-had-enough.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/17/shes-had-enough.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/16/the-good-thing.html",
@@ -975,35 +812,31 @@
 				"content_html": "<p>The good thing about the power outages from Texas Snowpocalypse 2021: I&rsquo;ve had more time to read and am now one step closer to finishing my reading goals for the year.</p>\n",
 				"content_text": "The good thing about the power outages from Texas Snowpocalypse 2021: I've had more time to read and am now one step closer to finishing my reading goals for the year.\n",
 				"date_published": "2021-02-16T18:44:49-05:00",
-				"url": "https://jakelacaze.com/2021/02/16/the-good-thing.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/16/the-good-thing.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/15/felt-cute-might.html",
 				
-				"content_html": "<p>Felt cute, might delete later</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/60009b7ec7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Felt cute, might delete later\n\n<img src=\"https://jakelacaze.com/uploads/2021/60009b7ec7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Felt cute, might delete later</p>\n\n<p><img src=\"uploads/2021/60009b7ec7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Felt cute, might delete later\n\n<img src=\"uploads/2021/60009b7ec7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-15T12:41:26-05:00",
-				"url": "https://jakelacaze.com/2021/02/15/felt-cute-might.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/15/felt-cute-might.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/15/mood.html",
 				
-				"content_html": "<p>2021 mood</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/d0355b5800.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "2021 mood\n\n<img src=\"https://jakelacaze.com/uploads/2021/d0355b5800.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>2021 mood</p>\n\n<p><img src=\"uploads/2021/d0355b5800.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "2021 mood\n\n<img src=\"uploads/2021/d0355b5800.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-15T12:38:23-05:00",
-				"url": "https://jakelacaze.com/2021/02/15/mood.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/15/mood.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/14/snow-is-overrated.html",
 				
-				"content_html": "<p>Snow is overrated, y&rsquo;all.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/4ee375778e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Snow is overrated, y'all.\n\n<img src=\"https://jakelacaze.com/uploads/2021/4ee375778e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Snow is overrated, y&rsquo;all.</p>\n\n<p><img src=\"uploads/2021/4ee375778e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Snow is overrated, y'all.\n\n<img src=\"uploads/2021/4ee375778e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-14T17:23:01-05:00",
-				"url": "https://jakelacaze.com/2021/02/14/snow-is-overrated.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/14/snow-is-overrated.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/14/today-im-thinking.html",
@@ -1011,8 +844,7 @@
 				"content_html": "<p>Today I&rsquo;m thinking about the time a group of us were at Cafe Brazil and the waiter said, &ldquo;Happy Valentine&rsquo;s Day, y&rsquo;all,&rdquo; as he dropped off the check and turned to walk away and it was such a strange encounter.</p>\n",
 				"content_text": "Today I'm thinking about the time a group of us were at Cafe Brazil and the waiter said, \"Happy Valentine's Day, y'all,\" as he dropped off the check and turned to walk away and it was such a strange encounter.\n",
 				"date_published": "2021-02-14T09:42:56-05:00",
-				"url": "https://jakelacaze.com/2021/02/14/today-im-thinking.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/14/today-im-thinking.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/14/journaling-doesnt-work.html",
@@ -1020,8 +852,7 @@
 				"content_html": "<p>Journaling doesn&rsquo;t work for me; it ends up a mundane retelling of the day&rsquo;s events with no flavor.</p>\n\n<p>For last night&rsquo;s entry, I took a real event from the day and fictionalized it a bit for a vignette/short story. I might have found a new journaling practice.</p>\n",
 				"content_text": "Journaling doesn't work for me; it ends up a mundane retelling of the day's events with no flavor.\n\nFor last night's entry, I took a real event from the day and fictionalized it a bit for a vignette/short story. I might have found a new journaling practice.\n",
 				"date_published": "2021-02-14T09:23:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/14/journaling-doesnt-work.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/14/journaling-doesnt-work.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/12/last-night-i.html",
@@ -1029,17 +860,15 @@
 				"content_html": "<p>Last night I prepped the John Wick trilogy for my Plex server, and now I&rsquo;m itching to rewatch the original. I love the simplicity of <em>John Wick</em> and how the movie knows what it is and stays in its lane.</p>\n",
 				"content_text": "Last night I prepped the John Wick trilogy for my Plex server, and now I'm itching to rewatch the original. I love the simplicity of *John Wick* and how the movie knows what it is and stays in its lane.\n",
 				"date_published": "2021-02-12T10:14:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/12/last-night-i.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/12/last-night-i.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/11/075121.html",
 				
-				"content_html": "<p><a href=\"https://song.link/us/i/318951791\">Your hand in mine</a></p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/09c916eb0a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "[Your hand in mine](https://song.link/us/i/318951791)\n\n<img src=\"https://jakelacaze.com/uploads/2021/09c916eb0a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://song.link/us/i/318951791\">Your hand in mine</a></p>\n\n<p><img src=\"uploads/2021/09c916eb0a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[Your hand in mine](https://song.link/us/i/318951791)\n\n<img src=\"uploads/2021/09c916eb0a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-11T08:51:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/11/075121.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/11/075121.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/11/this-morning-i.html",
@@ -1047,8 +876,7 @@
 				"content_html": "<p>This morning I finished <em>Play It As It Lays</em>, the first Joan Didion fiction I&rsquo;ve read. My biggest problem with Didion is that it took me so long to check her out.</p>\n",
 				"content_text": "This morning I finished *Play It As It Lays*, the first Joan Didion fiction I've read. My biggest problem with Didion is that it took me so long to check her out. \n",
 				"date_published": "2021-02-11T07:34:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/11/this-morning-i.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/11/this-morning-i.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/07/going-through-the.html",
@@ -1056,26 +884,23 @@
 				"content_html": "<p>Going through the Micro Monday archives, I recently listened to #83, in which <a href=\"https://micro.blog/jeremycherfas\">@jeremycherfas</a> and <a href=\"https://micro.blog/jean\">@jean</a> <a href=\"https://monday.micro.blog/2020/03/30/jeremy-cherfas-aka.html\">discuss Italian food</a>, which inspired me to make stuffed shells tonight.</p>\n\n<p>So my wife now approves of micro.blog even though she doesn&rsquo;t really know what it is.</p>\n",
 				"content_text": "Going through the Micro Monday archives, I recently listened to #83, in which [@jeremycherfas](https://micro.blog/jeremycherfas) and [@jean](https://micro.blog/jean) [discuss Italian food](https://monday.micro.blog/2020/03/30/jeremy-cherfas-aka.html), which inspired me to make stuffed shells tonight. \n\nSo my wife now approves of micro.blog even though she doesn't really know what it is.\n",
 				"date_published": "2021-02-07T19:27:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/07/going-through-the.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/07/going-through-the.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/06/the-birthplace-of.html",
 				
-				"content_html": "<p>The birthplace of my future next great American novel AKA last night&rsquo;s Airbnb</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/52504156bf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The birthplace of my future next great American novel AKA last night's Airbnb\n\n<img src=\"https://jakelacaze.com/uploads/2021/52504156bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The birthplace of my future next great American novel AKA last night&rsquo;s Airbnb</p>\n\n<p><img src=\"uploads/2021/52504156bf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The birthplace of my future next great American novel AKA last night's Airbnb\n\n<img src=\"uploads/2021/52504156bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-06T13:11:57-05:00",
-				"url": "https://jakelacaze.com/2021/02/06/the-birthplace-of.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/06/the-birthplace-of.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/05/just-a-little.html",
 				
-				"content_html": "<p>Just a few candles short</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/6a6a91933a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Just a few candles short\n\n<img src=\"https://jakelacaze.com/uploads/2021/6a6a91933a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Just a few candles short</p>\n\n<p><img src=\"uploads/2021/6a6a91933a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Just a few candles short\n\n<img src=\"uploads/2021/6a6a91933a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-05T08:46:49-05:00",
-				"url": "https://jakelacaze.com/2021/02/05/just-a-little.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/05/just-a-little.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/03/technology-is-great.html",
@@ -1083,8 +908,7 @@
 				"content_html": "<p>Technology is great, but it&rsquo;s made certain aspects of storytelling more difficult.</p>\n\n<p>From The Ringer: <a href=\"https://www.theringer.com/movies/2021/2/3/22263279/the-little-things-se7en-silence-of-the-lambs-serial-killer-movies-pre-cell-phones\">All Serial-Killer Movies Should Take Place in the Pre-Cellphone Era</a></p>\n",
 				"content_text": "Technology is great, but it's made certain aspects of storytelling more difficult.\n\nFrom The Ringer: [All Serial-Killer Movies Should Take Place in the Pre-Cellphone Era](https://www.theringer.com/movies/2021/2/3/22263279/the-little-things-se7en-silence-of-the-lambs-serial-killer-movies-pre-cell-phones)\n",
 				"date_published": "2021-02-03T09:51:00-05:00",
-				"url": "https://jakelacaze.com/2021/02/03/technology-is-great.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/03/technology-is-great.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/03/one-of-the.html",
@@ -1092,125 +916,111 @@
 				"content_html": "<p>One of the most refreshing things about micro.blog: I haven&rsquo;t seen any gifs or memes. Not that I&rsquo;m against them completely, but after a few weeks on micro.blog, it&rsquo;s obvious just how prevalent memes and gifs are on social media in general.</p>\n",
 				"content_text": "One of the most refreshing things about micro.blog: I haven't seen any gifs or memes. Not that I'm against them completely, but after a few weeks on micro.blog, it's obvious just how prevalent memes and gifs are on social media in general.\n",
 				"date_published": "2021-02-03T07:31:21-05:00",
-				"url": "https://jakelacaze.com/2021/02/03/one-of-the.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/03/one-of-the.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/02/what-do-you.html",
 				
-				"content_html": "<p><em>What do you mean you forgot the Blue Bell? Fine, I&rsquo;ll get it myself.</em></p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/c43413af11.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "*What do you mean you forgot the Blue Bell? Fine, I'll get it myself.*\n\n<img src=\"https://jakelacaze.com/uploads/2021/c43413af11.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><em>What do you mean you forgot the Blue Bell? Fine, I&rsquo;ll get it myself.</em></p>\n\n<p><img src=\"uploads/2021/c43413af11.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "*What do you mean you forgot the Blue Bell? Fine, I'll get it myself.*\n\n<img src=\"uploads/2021/c43413af11.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-02T20:33:35-05:00",
-				"url": "https://jakelacaze.com/2021/02/02/what-do-you.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/02/what-do-you.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/02/071014.html",
 				
-				"content_html": "<p>When life imitates art</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/11be26bf8f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "When life imitates art\n\n<img src=\"https://jakelacaze.com/uploads/2021/11be26bf8f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>When life imitates art</p>\n\n<p><img src=\"uploads/2021/11be26bf8f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "When life imitates art\n\n<img src=\"uploads/2021/11be26bf8f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-02T08:10:14-05:00",
-				"url": "https://jakelacaze.com/2021/02/02/071014.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/02/071014.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/02/070056.html",
 				
-				"content_html": "<p>Life tastes good.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/de40d06cea.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Life tastes good.\n\n<img src=\"https://jakelacaze.com/uploads/2021/de40d06cea.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Life tastes good.</p>\n\n<p><img src=\"uploads/2021/de40d06cea.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Life tastes good.\n\n<img src=\"uploads/2021/de40d06cea.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-02T08:00:56-05:00",
-				"url": "https://jakelacaze.com/2021/02/02/070056.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/02/070056.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/02/02/065626.html",
 				
-				"content_html": "<p>Rain, rain go away</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/281a660516.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Rain, rain go away\n\n<img src=\"https://jakelacaze.com/uploads/2021/281a660516.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Rain, rain go away</p>\n\n<p><img src=\"uploads/2021/281a660516.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rain, rain go away\n\n<img src=\"uploads/2021/281a660516.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-02T07:56:26-05:00",
-				"url": "https://jakelacaze.com/2021/02/02/065626.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/02/02/065626.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/31/cannon-beach.html",
 				
-				"content_html": "<p>Cannon Beach, 2018</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/d612be8d1a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Cannon Beach, 2018\n\n<img src=\"https://jakelacaze.com/uploads/2021/d612be8d1a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Cannon Beach, 2018</p>\n\n<p><img src=\"uploads/2021/d612be8d1a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Cannon Beach, 2018\n\n<img src=\"uploads/2021/d612be8d1a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-31T19:58:33-05:00",
-				"url": "https://jakelacaze.com/2021/01/31/cannon-beach.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/31/cannon-beach.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/31/needing-out-together.html",
 				
-				"content_html": "<p>Nerding out together</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/544e4e9598.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Nerding out together\n\n<img src=\"https://jakelacaze.com/uploads/2021/544e4e9598.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Nerding out together</p>\n\n<p><img src=\"uploads/2021/544e4e9598.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Nerding out together\n\n<img src=\"uploads/2021/544e4e9598.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-31T17:48:11-05:00",
-				"url": "https://jakelacaze.com/2021/01/31/needing-out-together.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/31/needing-out-together.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/31/my-sunday-happy.html",
 				
-				"content_html": "<p>My Sunday happy place</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/a0ad58d505.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My Sunday happy place\n\n<img src=\"https://jakelacaze.com/uploads/2021/a0ad58d505.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My Sunday happy place</p>\n\n<p><img src=\"uploads/2021/a0ad58d505.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My Sunday happy place\n\n<img src=\"uploads/2021/a0ad58d505.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-31T12:37:40-05:00",
-				"url": "https://jakelacaze.com/2021/01/31/my-sunday-happy.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/31/my-sunday-happy.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/30/204708.html",
 				
-				"content_html": "<p>The alien grave in Aurora, TX</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/56cccde059.jpg\" width=\"600\" height=\"600\" alt=\"The alien grave in Aurora, TX\" /></p>\n",
-				"content_text": "The alien grave in Aurora, TX\n\n<img src=\"https://jakelacaze.com/uploads/2021/56cccde059.jpg\" width=\"600\" height=\"600\" alt=\"The alien grave in Aurora, TX\" />\n",
+				"content_html": "<p>The alien grave in Aurora, TX</p>\n\n<p><img src=\"uploads/2021/56cccde059.jpg\" width=\"600\" height=\"600\" alt=\"The alien grave in Aurora, TX\" /></p>\n",
+				"content_text": "The alien grave in Aurora, TX\n\n<img src=\"uploads/2021/56cccde059.jpg\" width=\"600\" height=\"600\" alt=\"The alien grave in Aurora, TX\" />\n",
 				"date_published": "2021-01-30T21:47:00-05:00",
-				"url": "https://jakelacaze.com/2021/01/30/204708.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/30/204708.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/30/204753.html",
 				
-				"content_html": "<p>Cottontail Joe</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/c1987cb3d9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Cottontail Joe\n\n<img src=\"https://jakelacaze.com/uploads/2021/c1987cb3d9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Cottontail Joe</p>\n\n<p><img src=\"uploads/2021/c1987cb3d9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Cottontail Joe\n\n<img src=\"uploads/2021/c1987cb3d9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-30T21:47:00-05:00",
-				"url": "https://jakelacaze.com/2021/01/30/204753.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/30/204753.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/30/204548.html",
 				
-				"content_html": "<p>An old single-serving friend</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/92439a7c8b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "An old single-serving friend\n\n<img src=\"https://jakelacaze.com/uploads/2021/92439a7c8b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>An old single-serving friend</p>\n\n<p><img src=\"uploads/2021/92439a7c8b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "An old single-serving friend\n\n<img src=\"uploads/2021/92439a7c8b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-30T21:45:00-05:00",
-				"url": "https://jakelacaze.com/2021/01/30/204548.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/30/204548.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/30/200902.html",
 				
-				"content_html": "<p>A precious moment I&rsquo;d forgotten</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/c22db63f0d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A precious moment I'd forgotten\n\n<img src=\"https://jakelacaze.com/uploads/2021/c22db63f0d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A precious moment I&rsquo;d forgotten</p>\n\n<p><img src=\"uploads/2021/c22db63f0d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A precious moment I'd forgotten\n\n<img src=\"uploads/2021/c22db63f0d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-30T21:09:00-05:00",
-				"url": "https://jakelacaze.com/2021/01/30/200902.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/30/200902.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/30/195321.html",
 				
-				"content_html": "<p>When baby naps, the toys must nap.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/c786a949a2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "When baby naps, the toys must nap.\n\n<img src=\"https://jakelacaze.com/uploads/2021/c786a949a2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>When baby naps, the toys must nap.</p>\n\n<p><img src=\"uploads/2021/c786a949a2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "When baby naps, the toys must nap.\n\n<img src=\"uploads/2021/c786a949a2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-30T20:53:00-05:00",
-				"url": "https://jakelacaze.com/2021/01/30/195321.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/30/195321.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/30/194629.html",
 				
-				"content_html": "<p>My very own reserved spot</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/3351a38438.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My very own reserved spot\n\n<img src=\"https://jakelacaze.com/uploads/2021/3351a38438.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My very own reserved spot</p>\n\n<p><img src=\"uploads/2021/3351a38438.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My very own reserved spot\n\n<img src=\"uploads/2021/3351a38438.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-30T20:46:00-05:00",
-				"url": "https://jakelacaze.com/2021/01/30/194629.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/30/194629.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/29/shirley-jacksons-the.html",
@@ -1218,53 +1028,23 @@
 				"content_html": "<p>Shirley Jackson&rsquo;s <em>The Haunting of Hill House</em> is the first novel I&rsquo;ve read in 2021. My fiction reading is off to a great start for the year.</p>\n",
 				"content_text": "Shirley Jackson's *The Haunting of Hill House* is the first novel I've read in 2021. My fiction reading is off to a great start for the year.\n",
 				"date_published": "2021-01-29T20:32:00-05:00",
-				"url": "https://jakelacaze.com/2021/01/29/shirley-jacksons-the.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/29/shirley-jacksons-the.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/18/confession-i-once.html",
 				
-				"content_html": "<p>Confession: I once wrote <a href=\"https://jakelacaze.com/uploads/2021/c4b7cb86bd.pdf\">an instruction manual for using a chimney starter</a> for a technical writing class, but I almost always have problems starting my fire with a chimney starter.</p>\n\n<p>I am a fraud.</p>\n",
-				"content_text": "Confession: I once wrote [an instruction manual for using a chimney starter](https://jakelacaze.com/uploads/2021/c4b7cb86bd.pdf) for a technical writing class, but I almost always have problems starting my fire with a chimney starter. \n\nI am a fraud.\n",
+				"content_html": "<p>Confession: I once wrote <a href=\"https://jakelacaze.micro.blog/uploads/2021/c4b7cb86bd.pdf\">an instruction manual for using a chimney starter</a> for a technical writing class, but I almost always have problems starting my fire with a chimney starter.</p>\n\n<p>I am a fraud.</p>\n",
+				"content_text": "Confession: I once wrote [an instruction manual for using a chimney starter](https://jakelacaze.micro.blog/uploads/2021/c4b7cb86bd.pdf) for a technical writing class, but I almost always have problems starting my fire with a chimney starter. \n\nI am a fraud.\n",
 				"date_published": "2021-01-18T07:07:00-05:00",
-				"url": "https://jakelacaze.com/2021/01/18/confession-i-once.html",
-				"tags": ["Microposts"]
+				"url": "https://jakelacaze.micro.blog/2021/01/18/confession-i-once.html"
 			},
 			{
 				"id": "http://jakelacaze.micro.blog/2021/01/10/a-relaxing-night.html",
 				
-				"content_html": "<p>A relaxing night outside with the dog</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/89fe33dec4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A relaxing night outside with the dog\n\n<img src=\"https://jakelacaze.com/uploads/2021/89fe33dec4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A relaxing night outside with the dog</p>\n\n<p><img src=\"uploads/2021/89fe33dec4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A relaxing night outside with the dog\n\n<img src=\"uploads/2021/89fe33dec4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-10T15:28:02-05:00",
-				"url": "https://jakelacaze.com/2021/01/10/a-relaxing-night.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/03/25/goals.html",
-				"title": "2021 Goals",
-				"content_html": "<p>I no longer see goals as pending accomplishments but as immediate motivators. Little happens without movement, and movement is easier with a rough outline. Instead of plotting your trip down to the last tenth of a mile, maybe just head north for a while and don’t feel bad if you take an alternate path when you find <a href=\"https://twitter.com/SheriffAlert/status/1221881862244749315?ref_src=twsrc%5Etfw\">a boulder in your way</a>.</p>\n\n<p>But if you possess enough dynamite to remove the obstacle, by all means let &lsquo;er blow and carry on your merry way. Just remember: <a href=\"https://www.youtube.com/watch?v=Sqz5dbs5zmo\">Cool guys don’t look at explosions.</a> They blow things up and then walk away.</p>\n\n<h2 id=\"writerly-goals\">Writerly goals</h2>\n\n<h3 id=\"read-30-books\">Read 30 books</h3>\n\n<p>I’m not sure how many books I read in any given year because I’ve never kept a list, even though I’ve said I was going to numerous times. I want to set a reading goal, but the fashionable “50 books in a year” seems a bit much for me. For one, I’m a slow reader. And life happens and more important things get in the way. 30 seems like a reasonable goal for nearly anyone, so I’m going to give it a shot in 2021.</p>\n\n<h3 id=\"take-3-writing-classes\">Take 3 writing classes</h3>\n\n<p>Writing is my hobby, one I want to invest more into. Last year I took a technical writing class. This year I want to take three writing classes. I don’t care whether the classes pertain to professional writing or creative writing, and I can get them on the cheap with <a href=\"https://coursera.org\">Coursera</a>.</p>\n\n<h2 id=\"entertainment\">Entertainment</h2>\n\n<h3 id=\"finish-watching-kids-in-the-hall\">Finish watching <em>Kids in the Hall</em></h3>\n\n<p>I bought the series DVD collection for <em>Kids in the Hall</em> two years ago. I’m pretty sure one of my unofficial goals for 2020 was to finish watching the series. I can’t believe I didn’t do it, since I, like most other people, spent more time at home in 2020.</p>\n\n<p>As it stands, I’m about halfway through Season 2. That leaves about 75 episodes. Gotta get busy planting myself in front of the idiot box.</p>\n\n<p>And while we’re at it I might as well finish rewatching <em>Chappelle’s Show</em>.</p>\n\n<h2 id=\"fashion\">Fashion</h2>\n\n<h3 id=\"no-more-blue-jeans\">No more blue jeans</h3>\n\n<p>Look, blue jeans suck. They’re heavy and uncomfortable. Ugh. There are better options: khakis, chinos, going nude.</p>\n\n<p>Everyone knows that these days, real activism needs a hashtag, so join me in making #nodenimin2021 a reality.</p>\n\n<h2 id=\"onward-to-2021\">Onward to 2021</h2>\n\n<p>I thought I could come up with more goals, but seeing how the universe threw a curveball and wrecked all my plans for 2020, maybe it’s best to keep things simple this year.</p>\n\n<p>Happy New Year, y’all</p>",
-				"content_text": "I no longer see goals as pending accomplishments but as immediate motivators. Little happens without movement, and movement is easier with a rough outline. Instead of plotting your trip down to the last tenth of a mile, maybe just head north for a while and don’t feel bad if you take an alternate path when you find [a boulder in your way](https://twitter.com/SheriffAlert/status/1221881862244749315?ref_src=twsrc%5Etfw).\n\nBut if you possess enough dynamite to remove the obstacle, by all means let 'er blow and carry on your merry way. Just remember: [Cool guys don’t look at explosions.](https://www.youtube.com/watch?v=Sqz5dbs5zmo) They blow things up and then walk away.\n\n<!--more-->\n\n## Writerly goals\n\n### Read 30 books\n\nI’m not sure how many books I read in any given year because I’ve never kept a list, even though I’ve said I was going to numerous times. I want to set a reading goal, but the fashionable “50 books in a year” seems a bit much for me. For one, I’m a slow reader. And life happens and more important things get in the way. 30 seems like a reasonable goal for nearly anyone, so I’m going to give it a shot in 2021.\n\n### Take 3 writing classes\n\nWriting is my hobby, one I want to invest more into. Last year I took a technical writing class. This year I want to take three writing classes. I don’t care whether the classes pertain to professional writing or creative writing, and I can get them on the cheap with [Coursera](https://coursera.org).\n\n## Entertainment\n\n### Finish watching *Kids in the Hall*\n\nI bought the series DVD collection for *Kids in the Hall* two years ago. I’m pretty sure one of my unofficial goals for 2020 was to finish watching the series. I can’t believe I didn’t do it, since I, like most other people, spent more time at home in 2020.\n\nAs it stands, I’m about halfway through Season 2. That leaves about 75 episodes. Gotta get busy planting myself in front of the idiot box.\n\nAnd while we’re at it I might as well finish rewatching *Chappelle’s Show*.\n\n## Fashion\n\n### No more blue jeans\n\nLook, blue jeans suck. They’re heavy and uncomfortable. Ugh. There are better options: khakis, chinos, going nude.\n\nEveryone knows that these days, real activism needs a hashtag, so join me in making #nodenimin2021 a reality.\n\n## Onward to 2021\n\nI thought I could come up with more goals, but seeing how the universe threw a curveball and wrecked all my plans for 2020, maybe it’s best to keep things simple this year.\n\nHappy New Year, y’all\n\n",
-				"date_published": "2020-12-25T10:43:00-05:00",
-				"url": "https://jakelacaze.com/2021/03/25/goals.html",
-				"tags": ["Essays"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/03/25/places-that-once.html",
-				"title": "Places That Once Were",
-				"content_html": "<p><a href=\"https://en.wikipedia.org/wiki/Landman_%28oil_worker%29\">Landmen</a> have an interesting relationship with history. Some will harken back to the good old days of driving out to a rancher&rsquo;s property and discussing business among prospect maps spread over the hood of a pickup truck and closing deals with handshakes. If you stick around long enough in this field&ndash;I&rsquo;m nearing my thirteenth year&ndash;you likely develop at least a passing interest in the history of the land and the minerals underneath. And the history of the owners, sometimes leading to revelations of betrayal and the accompanying family feuds. When researching title, you may become more familiar with other people&rsquo;s family trees than you are of your own. And don&rsquo;t let anyone tell you that wills, probate proceedings, and affidavits can&rsquo;t be exciting&ndash;sometimes you find some four-letter words and some spicy accusations in those documents.</p>\n\n<p>A desire to advance my career led to a five-year stint in Midland, Texas, a place not known as a hotspot for things to do. <a href=\"https://www.youtube.com/watch?v=5a7TcW_2b9s\">Desperate times call for desperate pleasures</a>, as Bill Ryder-Jones said, so in the land of oil, even your escapes may be related to petroleum in some way. At some point, I spent a day driving across Reagan County, starting with a town called Stiles, once the county seat until it was bypassed by the railroad and oil was discovered in Big Lake. These days little remains in Stiles, other than the remains of the former courthouse.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/777b5884c6.jpg\" alt=\"\" /><small>The old Reagan County courthouse in Stiles, TX</small></p>\n\n<p>A former neighbor told me that the chainlink fence surrounding the old courthouse was erected after someone tried to burn it down a few times. I do not condone trespassing, but the fence had been cut when I visited, so I couldn&rsquo;t resist the temptation to step inside.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/408cd1b22d.jpg\" alt=\"\" /><small>Inside the courthouse</small></p>\n\n<p>Next my adventures saw me going to the settlement once called Best. I was surprised Best had a sign announcing its border, since I saw nothing else to suggest anyone ever lived within its limits. I doubt much worth remembering ever happened there since it was said that Best had the worst residents.</p>\n\n<p>The last leg of my Reagan County world tour took me to Texon, the home of the Santa Rita No. 1, the well which gave birth to decades of drilling in the Permian Basin. Aside from a monument to the well named after the patron saint of foolish endeavors&ndash;an appropriate name since crews sought oil for <em>two years</em> before finding reliable production&ndash;I saw an old scout shack with some used tires and a decaying goat.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/e5495ed6b4.jpg\" alt=\"\" /><small>The old scout shack in Texon, TX</small></p>\n\n<p>Each of these towns, which would be considered dead by modern measures, had its day and its history. These towns were once functioning communities with schools, banks, markets, churches, and post offices. These were places where people built lives. Places where people dreamed of a bright future. But these places in Reagan County are hardly alone, as the same goes for <a href=\"http://www.texasescapes.com/FEATURES/Thurber_Texas/Thurber_Texas_ghosttown.htm\">Thurber, Texas</a> (way over in Erath County), a former company coal mining town, which was at one time the largest settlement between Fort Worth and El Paso, and which now boasts a population of five, along with two restaurants and an old smokestack as an homage to its past. Who would have thought that the first electrified city in Texas would someday be reduced to a footnote in the history books.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/23e0c30b8b.jpg\" alt=\"\" /><small>The lone smokestack remaining in Thurber, TX</small></p>\n\n<p>And the same goes for the Baker Hotel, located in Mineral Wells and formerly a resort for the elites who thought the town&rsquo;s spring waters had therapeutic qualities. <a href=\"https://en.wikipedia.org/wiki/Baker_Hotel_(Mineral_Wells%2C_Texas)\">According to Wikipedia</a>, &ldquo;the star-studded guest list included Glenn Miller, Lawrence Welk, Clark Gable, Judy Garland, future U.S. President Lyndon B. Johnson, and even The Three Stooges. It is even rumored by local historians that legendary outlaws Bonnie Parker and Clyde Barrow may have spent a night or two at the Baker.&rdquo; An investment company had purchased the Baker and had broken ground on renovations before the pandemic, so maybe there&rsquo;s a chance that the old hotel will be once again be somewhere new memories are made.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/973b374932.jpg\" alt=\"\" /><small>The Baker Hotel circa 2015</small></p>\n\n<p>At one time, people would have imagined these locations would last forever, and now these places are little more than distant memories. If such places have come and gone, why should we expect any of our comforts to be immune to such possibility? Why would we expect our jobs to be invulnerable? Our industries? Whole swaths of an economy? The pandemic has shown the flaws in many of our collective assumptions, and history echoes some of those callouts.</p>\n\n<p>More often than not, we should live through the lens of probability: <em>If x then y; what do the statistics say?</em> Yet there is utility in entertaining possibility, if only to be slightly more prepared for it. History can be a great tool for learning possibility, because while history may not repeat itself, it does often rhyme. And sometimes it features rhymes accompanied by <a href=\"https://www.youtube.com/watch?v=n6rjQ9VVLDI\">808s and heartbreak</a>.</p>\n\n<p>Americans are horrible at accepting impermanence. Look no further than how hard some will fight for that extra year of life, often an extra year of pain and suffering. <a href=\"https://www.youtube.com/watch?v=IhNPeiy-MeU\"><em>Life goes on long after the thrill of living is gone&hellip;</em></a></p>\n\n<p>Yet my life has improved as I&rsquo;ve learned to accept that all I hold dear will be forgotten after the earth makes a few more passes around the sun. That is more than possibility or probability. It is inevitability.</p>\n\n<p>When I visit ghost towns and abandoned places&ndash;places that once were&ndash;I can&rsquo;t help daydreaming about the stories forgotten in time. These days, I think about the stories that have been lost through those dear to me who have passed. How many stories will be lost because of my reluctance to share? These thoughts and questions, which once seemed silly, became more important once I had kids.</p>\n\n<p>I have a habit of living anywhere other than the present. I replay the past in my head and beat myself up for things I cannot change. I look ahead to catastrophes that may never materialize and work myself up over nothing. But with the help of <a href=\"https://www.wakingup.com\">meditation</a> and <a href=\"https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started/#what-is-stoicism\">Stoicism</a>, I&rsquo;ve become better at living in the moment, though like an addict, I relapse. Reminding myself of impermanence also helps. If precious moments are destined to be forgotten, then they should be enjoyed in their time.</p>\n\n<p>Perhaps you&rsquo;ve heard certain mantras that help to keep this in perspective for you:</p>\n\n<blockquote>\n<p>Nothing lasts forever.</p>\n\n<p>This too shall pass. (This mantra applies to the good times too).</p>\n\n<p>Things come, things go.</p>\n</blockquote>\n\n<p>But for me, seeing is believing.</p>",
-				"content_text": "[Landmen](https://en.wikipedia.org/wiki/Landman_%28oil_worker%29) have an interesting relationship with history. Some will harken back to the good old days of driving out to a rancher's property and discussing business among prospect maps spread over the hood of a pickup truck and closing deals with handshakes. If you stick around long enough in this field--I'm nearing my thirteenth year--you likely develop at least a passing interest in the history of the land and the minerals underneath. And the history of the owners, sometimes leading to revelations of betrayal and the accompanying family feuds. When researching title, you may become more familiar with other people's family trees than you are of your own. And don't let anyone tell you that wills, probate proceedings, and affidavits can't be exciting--sometimes you find some four-letter words and some spicy accusations in those documents.\n\n<!--more-->\n\nA desire to advance my career led to a five-year stint in Midland, Texas, a place not known as a hotspot for things to do. [Desperate times call for desperate pleasures](https://www.youtube.com/watch?v=5a7TcW_2b9s), as Bill Ryder-Jones said, so in the land of oil, even your escapes may be related to petroleum in some way. At some point, I spent a day driving across Reagan County, starting with a town called Stiles, once the county seat until it was bypassed by the railroad and oil was discovered in Big Lake. These days little remains in Stiles, other than the remains of the former courthouse. \n\n![](https://jakelacaze.com/uploads/2021/777b5884c6.jpg)<small>The old Reagan County courthouse in Stiles, TX</small>\n\nA former neighbor told me that the chainlink fence surrounding the old courthouse was erected after someone tried to burn it down a few times. I do not condone trespassing, but the fence had been cut when I visited, so I couldn't resist the temptation to step inside.\n\n![](https://jakelacaze.com/uploads/2021/408cd1b22d.jpg)<small>Inside the courthouse</small>\n\nNext my adventures saw me going to the settlement once called Best. I was surprised Best had a sign announcing its border, since I saw nothing else to suggest anyone ever lived within its limits. I doubt much worth remembering ever happened there since it was said that Best had the worst residents.\n\nThe last leg of my Reagan County world tour took me to Texon, the home of the Santa Rita No. 1, the well which gave birth to decades of drilling in the Permian Basin. Aside from a monument to the well named after the patron saint of foolish endeavors--an appropriate name since crews sought oil for *two years* before finding reliable production--I saw an old scout shack with some used tires and a decaying goat.\n\n![](https://jakelacaze.com/uploads/2021/e5495ed6b4.jpg)<small>The old scout shack in Texon, TX</small>\n\nEach of these towns, which would be considered dead by modern measures, had its day and its history. These towns were once functioning communities with schools, banks, markets, churches, and post offices. These were places where people built lives. Places where people dreamed of a bright future. But these places in Reagan County are hardly alone, as the same goes for [Thurber, Texas](http://www.texasescapes.com/FEATURES/Thurber_Texas/Thurber_Texas_ghosttown.htm) (way over in Erath County), a former company coal mining town, which was at one time the largest settlement between Fort Worth and El Paso, and which now boasts a population of five, along with two restaurants and an old smokestack as an homage to its past. Who would have thought that the first electrified city in Texas would someday be reduced to a footnote in the history books.\n\n![](https://jakelacaze.com/uploads/2021/23e0c30b8b.jpg)<small>The lone smokestack remaining in Thurber, TX</small>\n\nAnd the same goes for the Baker Hotel, located in Mineral Wells and formerly a resort for the elites who thought the town's spring waters had therapeutic qualities. [According to Wikipedia](https://en.wikipedia.org/wiki/Baker_Hotel_(Mineral_Wells%2C_Texas)), \"the star-studded guest list included Glenn Miller, Lawrence Welk, Clark Gable, Judy Garland, future U.S. President Lyndon B. Johnson, and even The Three Stooges. It is even rumored by local historians that legendary outlaws Bonnie Parker and Clyde Barrow may have spent a night or two at the Baker.\" An investment company had purchased the Baker and had broken ground on renovations before the pandemic, so maybe there's a chance that the old hotel will be once again be somewhere new memories are made.\n\n![](https://jakelacaze.com/uploads/2021/973b374932.jpg)<small>The Baker Hotel circa 2015</small>\n\nAt one time, people would have imagined these locations would last forever, and now these places are little more than distant memories. If such places have come and gone, why should we expect any of our comforts to be immune to such possibility? Why would we expect our jobs to be invulnerable? Our industries? Whole swaths of an economy? The pandemic has shown the flaws in many of our collective assumptions, and history echoes some of those callouts.\n\nMore often than not, we should live through the lens of probability: *If x then y; what do the statistics say?* Yet there is utility in entertaining possibility, if only to be slightly more prepared for it. History can be a great tool for learning possibility, because while history may not repeat itself, it does often rhyme. And sometimes it features rhymes accompanied by [808s and heartbreak](https://www.youtube.com/watch?v=n6rjQ9VVLDI).\n\nAmericans are horrible at accepting impermanence. Look no further than how hard some will fight for that extra year of life, often an extra year of pain and suffering. [*Life goes on long after the thrill of living is gone...*](https://www.youtube.com/watch?v=IhNPeiy-MeU)\n\nYet my life has improved as I've learned to accept that all I hold dear will be forgotten after the earth makes a few more passes around the sun. That is more than possibility or probability. It is inevitability.\n\nWhen I visit ghost towns and abandoned places--places that once were--I can't help daydreaming about the stories forgotten in time. These days, I think about the stories that have been lost through those dear to me who have passed. How many stories will be lost because of my reluctance to share? These thoughts and questions, which once seemed silly, became more important once I had kids.\n\nI have a habit of living anywhere other than the present. I replay the past in my head and beat myself up for things I cannot change. I look ahead to catastrophes that may never materialize and work myself up over nothing. But with the help of [meditation](https://www.wakingup.com) and [Stoicism](https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started/#what-is-stoicism), I've become better at living in the moment, though like an addict, I relapse. Reminding myself of impermanence also helps. If precious moments are destined to be forgotten, then they should be enjoyed in their time.\n\nPerhaps you've heard certain mantras that help to keep this in perspective for you:\n\n> Nothing lasts forever.\n\n> This too shall pass. (This mantra applies to the good times too).\n\n> Things come, things go.\n\nBut for me, seeing is believing. \n\n",
-				"date_published": "2020-11-30T11:26:00-05:00",
-				"url": "https://jakelacaze.com/2021/03/25/places-that-once.html",
-				"tags": ["Essays"]
-			},
-			{
-				"id": "http://jakelacaze.micro.blog/2021/03/25/the-happening-in.html",
-				"title": "The Happening in Aurora, Texas",
-				"content_html": "<p>When you hear about Texas, a few things may come to mind:</p>\n\n<ul>\n<li>Cowboys</li>\n<li>The Alamo</li>\n<li>Salsa and cheese dip</li>\n<li>Big AF state</li>\n</ul>\n\n<p>You likely don&rsquo;t think of the state as possibly being home to America&rsquo;s first UFO crash, which took place 50 years before the better-known Roswell incident. From my experience, most people in the Dallas-Fort Worth area are unaware of the <a href=\"https://en.wikipedia.org/wiki/Aurora,_Texas,_UFO_incident\">Aurora, Texas, UFO incident</a>, even though it happened practically in their back yard.</p>\n\n<p>Long story short, way back in 1897&ndash;before the Wright brothers blasted their fly rides into the sky and made it cry&ndash;a cigar-shaped spaceship wrecked into a windmill on the judge&rsquo;s property. The pilot, some tiny human-like creature, was buried in the local cemetery.</p>\n\n<p><img src=\"https://jakelacaze.com/uploads/2021/56cccde059.jpg\" alt=\"\" /></p>\n\n<p>Of course, any good alien story has to have some additional layers to it.</p>\n\n<p>Supposedly, some metal from the wreckage was thrown into the property&rsquo;s water well and a future owner would claim that the well water gave him gout and so he closed the well in.</p>\n\n<p>When the locals buried the little alien man, they left a grave marker, which was supposedly later retrieved by the army. Truth ears have replaced the marker numerous times with some sort of rock or object over the decades. The cemetery will not allow anyone to exhume the alien, but <a href=\"https://youtu.be/nOHpQd7TtFg\">according to the History Channel&rsquo;s UFO Hunters</a>, there is a collapsed and deteriorated grave at the alien&rsquo;s plot.</p>\n\n<p>Perhaps this story isn&rsquo;t better known because it has been nearly unanimously accepted as legend and was most likely a PR stunt by a local journalist to stir up interest in the dying town. But it&rsquo;s one I like to tell when I get the chance.</p>\n\n<p>I do not believe in aliens insofar as little green men flying around in bubbly spaceships with strange lights and looking for people to abduct for the sake of a little probing action, but I do love the story behind the Aurora, Texas, UFO incident, so from time to time I go to visit the alien grave. And that&rsquo;s what the LaCaze family did this past weekend, while following proper social distancing etiquette, of course.</p>\n\n<p>I&rsquo;ve visited the grave a handful of times over the years, and I never know what to expect before arriving. Before my first visit, someone had stolen the marker for the grave, so I had to rely on blogs and other resources to locate the grave on my own. I would not be surprised if I wrongly identified the spot during my first visit.</p>\n\n<p>For my last few visits, rocks have served as a marker. People often leave little trinkets for the alien, and this past visit featured the most absurd collection I&rsquo;ve yet to see.</p>\n\n<p>During my latest visit to the alien grave, I regretted not visiting Roswell during the five years I lived in West Texas. The drive would not have been terribly long, and I had plenty of free weekends to cross state lines and gawk at some hokey alien stuff and listen to <a href=\"https://song.link/us/i/1025319113\">&ldquo;The Happening&rdquo; by Pixies</a> on repeat. I was also reminded of why I enjoy investigating local abandoned places and local ghost stories and such&ndash;the stories, man. The stories, which can often entertain while also revealing something deeper about us: our anxieties, our hopes, our pains, our desperation.</p>\n\n<p>My son was weirded out by the idea of an alien being buried in the Aurora cemetery. Even after I asked him how he could doubt it after seeing the grave, he held on to his skepticism. I was proud that he was not so easily swayed even by parental pressure, but I hope he was still able to enjoy the lore&ndash;the story&ndash; of it all.</p>",
-				"content_text": "When you hear about Texas, a few things may come to mind:\n\n- Cowboys\n- The Alamo\n- Salsa and cheese dip\n- Big AF state\n\nYou likely don't think of the state as possibly being home to America's first UFO crash, which took place 50 years before the better-known Roswell incident. From my experience, most people in the Dallas-Fort Worth area are unaware of the [Aurora, Texas, UFO incident](https://en.wikipedia.org/wiki/Aurora,_Texas,_UFO_incident), even though it happened practically in their back yard.\n\n<!--more-->\n\nLong story short, way back in 1897--before the Wright brothers blasted their fly rides into the sky and made it cry--a cigar-shaped spaceship wrecked into a windmill on the judge's property. The pilot, some tiny human-like creature, was buried in the local cemetery. \n\n![](https://jakelacaze.com/uploads/2021/56cccde059.jpg)\n\nOf course, any good alien story has to have some additional layers to it.\n\nSupposedly, some metal from the wreckage was thrown into the property's water well and a future owner would claim that the well water gave him gout and so he closed the well in.\n\nWhen the locals buried the little alien man, they left a grave marker, which was supposedly later retrieved by the army. Truth ears have replaced the marker numerous times with some sort of rock or object over the decades. The cemetery will not allow anyone to exhume the alien, but [according to the History Channel's UFO Hunters](https://youtu.be/nOHpQd7TtFg), there is a collapsed and deteriorated grave at the alien's plot.\n\nPerhaps this story isn't better known because it has been nearly unanimously accepted as legend and was most likely a PR stunt by a local journalist to stir up interest in the dying town. But it's one I like to tell when I get the chance. \n\nI do not believe in aliens insofar as little green men flying around in bubbly spaceships with strange lights and looking for people to abduct for the sake of a little probing action, but I do love the story behind the Aurora, Texas, UFO incident, so from time to time I go to visit the alien grave. And that's what the LaCaze family did this past weekend, while following proper social distancing etiquette, of course.\n\nI've visited the grave a handful of times over the years, and I never know what to expect before arriving. Before my first visit, someone had stolen the marker for the grave, so I had to rely on blogs and other resources to locate the grave on my own. I would not be surprised if I wrongly identified the spot during my first visit.\n\nFor my last few visits, rocks have served as a marker. People often leave little trinkets for the alien, and this past visit featured the most absurd collection I've yet to see.\n\nDuring my latest visit to the alien grave, I regretted not visiting Roswell during the five years I lived in West Texas. The drive would not have been terribly long, and I had plenty of free weekends to cross state lines and gawk at some hokey alien stuff and listen to [\"The Happening\" by Pixies](https://song.link/us/i/1025319113) on repeat. I was also reminded of why I enjoy investigating local abandoned places and local ghost stories and such--the stories, man. The stories, which can often entertain while also revealing something deeper about us: our anxieties, our hopes, our pains, our desperation.\n\nMy son was weirded out by the idea of an alien being buried in the Aurora cemetery. Even after I asked him how he could doubt it after seeing the grave, he held on to his skepticism. I was proud that he was not so easily swayed even by parental pressure, but I hope he was still able to enjoy the lore--the story-- of it all.\n\n",
-				"date_published": "2020-04-29T16:49:00-05:00",
-				"url": "https://jakelacaze.com/2021/03/25/the-happening-in.html",
-				"tags": ["Essays"]
+				"url": "https://jakelacaze.micro.blog/2021/01/10/a-relaxing-night.html"
 			}
 	]
 }
